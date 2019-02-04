@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Laptreus-v1-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v1-eagle-import.lib)(options "")(descr ""))
+  (lib (name Laptreus-v1-rescue)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v1-rescue.lib)(options "")(descr ""))
+  (lib (name CPL)(type Legacy)(uri /Users/vosechu/github/vosechu/keyboards/CPL-KiCad-Library/CPL.lib)(options "")(descr ""))
+)

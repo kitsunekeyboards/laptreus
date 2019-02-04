@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CommonPartsLibrary)(type KiCad)(uri /Users/vosechu/github/vosechu/keyboards/CommonPartsLibrary.pretty)(options "")(descr ""))
+  (lib (name CPL-KiCad-Library)(type KiCad)(uri /Users/vosechu/github/vosechu/keyboards/CPL-KiCad-Library)(options "")(descr ""))
+)

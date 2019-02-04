@@ -1,0 +1,2092 @@
+EESchema Schematic File Version 4
+LIBS:Laptreus-v1-cache
+EELAYER 26 0
+EELAYER END
+$Descr USLedger 17000 11000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L components:SWITCH_PUSH SW5
+U 1 1 581E77BB
+P 2900 1600
+F 0 "SW5" H 3050 1710 50  0000 C CNN
+F 1 "P" H 2900 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 2900 1600 60  0001 C CNN
+F 3 "" H 2900 1600 60  0001 C CNN
+	1    2900 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D5
+U 1 1 581E77C1
+P 2900 1900
+F 0 "D5" H 2800 1850 40  0000 C CNN
+F 1 "DIODE" H 2900 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 2900 1900 60  0001 C CNN
+F 3 "" H 2900 1900 60  0001 C CNN
+	1    2900 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW6
+U 1 1 581E77CE
+P 2900 2300
+F 0 "SW6" H 3050 2410 50  0000 C CNN
+F 1 ";" H 2900 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 2900 2300 60  0001 C CNN
+F 3 "" H 2900 2300 60  0001 C CNN
+	1    2900 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D6
+U 1 1 581E77D4
+P 2900 2600
+F 0 "D6" H 2800 2550 40  0000 C CNN
+F 1 "DIODE" H 2900 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 2900 2600 60  0001 C CNN
+F 3 "" H 2900 2600 60  0001 C CNN
+	1    2900 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW7
+U 1 1 581E77E1
+P 2900 3000
+F 0 "SW7" H 3050 3110 50  0000 C CNN
+F 1 "/" H 2900 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 2900 3000 60  0001 C CNN
+F 3 "" H 2900 3000 60  0001 C CNN
+	1    2900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D7
+U 1 1 581E77E7
+P 2900 3300
+F 0 "D7" H 2800 3250 40  0000 C CNN
+F 1 "DIODE" H 2900 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 2900 3300 60  0001 C CNN
+F 3 "" H 2900 3300 60  0001 C CNN
+	1    2900 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW8
+U 1 1 581E77F4
+P 2900 3700
+F 0 "SW8" H 3050 3810 50  0000 C CNN
+F 1 "UP" H 2900 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 2900 3700 60  0001 C CNN
+F 3 "" H 2900 3700 60  0001 C CNN
+	1    2900 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D8
+U 1 1 581E77FA
+P 2900 4000
+F 0 "D8" H 2800 3950 40  0000 C CNN
+F 1 "DIODE" H 2900 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 2900 4000 60  0001 C CNN
+F 3 "" H 2900 4000 60  0001 C CNN
+	1    2900 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW9
+U 1 1 581E7F36
+P 3850 1600
+F 0 "SW9" H 4000 1710 50  0000 C CNN
+F 1 "O" H 3850 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 3850 1600 60  0001 C CNN
+F 3 "" H 3850 1600 60  0001 C CNN
+	1    3850 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D9
+U 1 1 581E7F3C
+P 3850 1900
+F 0 "D9" H 3750 1850 40  0000 C CNN
+F 1 "DIODE" H 3850 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 3850 1900 60  0001 C CNN
+F 3 "" H 3850 1900 60  0001 C CNN
+	1    3850 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW10
+U 1 1 581E7F49
+P 3850 2300
+F 0 "SW10" H 4000 2410 50  0000 C CNN
+F 1 "L" H 3850 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 3850 2300 60  0001 C CNN
+F 3 "" H 3850 2300 60  0001 C CNN
+	1    3850 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D10
+U 1 1 581E7F4F
+P 3850 2600
+F 0 "D10" H 3750 2550 40  0000 C CNN
+F 1 "DIODE" H 3850 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 3850 2600 60  0001 C CNN
+F 3 "" H 3850 2600 60  0001 C CNN
+	1    3850 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW11
+U 1 1 581E7F5C
+P 3850 3000
+F 0 "SW11" H 4000 3110 50  0000 C CNN
+F 1 "." H 3850 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 3850 3000 60  0001 C CNN
+F 3 "" H 3850 3000 60  0001 C CNN
+	1    3850 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D11
+U 1 1 581E7F62
+P 3850 3300
+F 0 "D11" H 3750 3250 40  0000 C CNN
+F 1 "DIODE" H 3850 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 3850 3300 60  0001 C CNN
+F 3 "" H 3850 3300 60  0001 C CNN
+	1    3850 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW12
+U 1 1 581E7F6F
+P 3850 3700
+F 0 "SW12" H 4000 3810 50  0000 C CNN
+F 1 "DOWN" H 3850 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 3850 3700 60  0001 C CNN
+F 3 "" H 3850 3700 60  0001 C CNN
+	1    3850 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D12
+U 1 1 581E7F75
+P 3850 4000
+F 0 "D12" H 3750 3950 40  0000 C CNN
+F 1 "DIODE" H 3850 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 3850 4000 60  0001 C CNN
+F 3 "" H 3850 4000 60  0001 C CNN
+	1    3850 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW13
+U 1 1 581E7F95
+P 4800 1600
+F 0 "SW13" H 4950 1710 50  0000 C CNN
+F 1 "I" H 4800 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 4800 1600 60  0001 C CNN
+F 3 "" H 4800 1600 60  0001 C CNN
+	1    4800 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D13
+U 1 1 581E7F9B
+P 4800 1900
+F 0 "D13" H 4700 1850 40  0000 C CNN
+F 1 "DIODE" H 4800 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 4800 1900 60  0001 C CNN
+F 3 "" H 4800 1900 60  0001 C CNN
+	1    4800 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW14
+U 1 1 581E7FA8
+P 4800 2300
+F 0 "SW14" H 4950 2410 50  0000 C CNN
+F 1 "K" H 4800 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 4800 2300 60  0001 C CNN
+F 3 "" H 4800 2300 60  0001 C CNN
+	1    4800 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D14
+U 1 1 581E7FAE
+P 4800 2600
+F 0 "D14" H 4700 2550 40  0000 C CNN
+F 1 "DIODE" H 4800 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 4800 2600 60  0001 C CNN
+F 3 "" H 4800 2600 60  0001 C CNN
+	1    4800 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW15
+U 1 1 581E7FBB
+P 4800 3000
+F 0 "SW15" H 4950 3110 50  0000 C CNN
+F 1 "," H 4800 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 4800 3000 60  0001 C CNN
+F 3 "" H 4800 3000 60  0001 C CNN
+	1    4800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D15
+U 1 1 581E7FC1
+P 4800 3300
+F 0 "D15" H 4700 3250 40  0000 C CNN
+F 1 "DIODE" H 4800 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 4800 3300 60  0001 C CNN
+F 3 "" H 4800 3300 60  0001 C CNN
+	1    4800 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW16
+U 1 1 581E7FCE
+P 4800 3700
+F 0 "SW16" H 4950 3810 50  0000 C CNN
+F 1 "LEFT" H 4800 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 4800 3700 60  0001 C CNN
+F 3 "" H 4800 3700 60  0001 C CNN
+	1    4800 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D16
+U 1 1 581E7FD4
+P 4800 4000
+F 0 "D16" H 4700 3950 40  0000 C CNN
+F 1 "DIODE" H 4800 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 4800 4000 60  0001 C CNN
+F 3 "" H 4800 4000 60  0001 C CNN
+	1    4800 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW17
+U 1 1 581E8238
+P 5750 1600
+F 0 "SW17" H 5900 1710 50  0000 C CNN
+F 1 "U" H 5750 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 5750 1600 60  0001 C CNN
+F 3 "" H 5750 1600 60  0001 C CNN
+	1    5750 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D17
+U 1 1 581E823E
+P 5750 1900
+F 0 "D17" H 5650 1850 40  0000 C CNN
+F 1 "DIODE" H 5750 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 5750 1900 60  0001 C CNN
+F 3 "" H 5750 1900 60  0001 C CNN
+	1    5750 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW18
+U 1 1 581E824B
+P 5750 2300
+F 0 "SW18" H 5900 2410 50  0000 C CNN
+F 1 "J" H 5750 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 5750 2300 60  0001 C CNN
+F 3 "" H 5750 2300 60  0001 C CNN
+	1    5750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D18
+U 1 1 581E8251
+P 5750 2600
+F 0 "D18" H 5650 2550 40  0000 C CNN
+F 1 "DIODE" H 5750 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 5750 2600 60  0001 C CNN
+F 3 "" H 5750 2600 60  0001 C CNN
+	1    5750 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW19
+U 1 1 581E825E
+P 5750 3000
+F 0 "SW19" H 5900 3110 50  0000 C CNN
+F 1 "M" H 5750 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 5750 3000 60  0001 C CNN
+F 3 "" H 5750 3000 60  0001 C CNN
+	1    5750 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D19
+U 1 1 581E8264
+P 5750 3300
+F 0 "D19" H 5650 3250 40  0000 C CNN
+F 1 "DIODE" H 5750 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 5750 3300 60  0001 C CNN
+F 3 "" H 5750 3300 60  0001 C CNN
+	1    5750 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW20
+U 1 1 581E8271
+P 5750 3700
+F 0 "SW20" H 5900 3810 50  0000 C CNN
+F 1 "ENTER/RAISE" H 5750 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 5750 3700 60  0001 C CNN
+F 3 "" H 5750 3700 60  0001 C CNN
+	1    5750 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D20
+U 1 1 581E8277
+P 5750 4000
+F 0 "D20" H 5650 3950 40  0000 C CNN
+F 1 "DIODE" H 5750 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 5750 4000 60  0001 C CNN
+F 3 "" H 5750 4000 60  0001 C CNN
+	1    5750 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW21
+U 1 1 581E8297
+P 6700 1600
+F 0 "SW21" H 6850 1710 50  0000 C CNN
+F 1 "Y" H 6700 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 6700 1600 60  0001 C CNN
+F 3 "" H 6700 1600 60  0001 C CNN
+	1    6700 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D21
+U 1 1 581E829D
+P 6700 1900
+F 0 "D21" H 6600 1850 40  0000 C CNN
+F 1 "DIODE" H 6700 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 6700 1900 60  0001 C CNN
+F 3 "" H 6700 1900 60  0001 C CNN
+	1    6700 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW22
+U 1 1 581E82AA
+P 6700 2300
+F 0 "SW22" H 6850 2410 50  0000 C CNN
+F 1 "H" H 6700 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 6700 2300 60  0001 C CNN
+F 3 "" H 6700 2300 60  0001 C CNN
+	1    6700 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D22
+U 1 1 581E82B0
+P 6700 2600
+F 0 "D22" H 6600 2550 40  0000 C CNN
+F 1 "DIODE" H 6700 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 6700 2600 60  0001 C CNN
+F 3 "" H 6700 2600 60  0001 C CNN
+	1    6700 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW23
+U 1 1 581E82BD
+P 6700 3000
+F 0 "SW23" H 6850 3110 50  0000 C CNN
+F 1 "N" H 6700 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 6700 3000 60  0001 C CNN
+F 3 "" H 6700 3000 60  0001 C CNN
+	1    6700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D23
+U 1 1 581E82C3
+P 6700 3300
+F 0 "D23" H 6600 3250 40  0000 C CNN
+F 1 "DIODE" H 6700 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 6700 3300 60  0001 C CNN
+F 3 "" H 6700 3300 60  0001 C CNN
+	1    6700 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW24
+U 1 1 581E82D0
+P 6700 3700
+F 0 "SW24" H 6850 3810 50  0000 C CNN
+F 1 "SPACE" H 6700 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 6700 3700 60  0001 C CNN
+F 3 "" H 6700 3700 60  0001 C CNN
+	1    6700 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D24
+U 1 1 581E82D6
+P 6700 4000
+F 0 "D24" H 6600 3950 40  0000 C CNN
+F 1 "DIODE" H 6700 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 6700 4000 60  0001 C CNN
+F 3 "" H 6700 4000 60  0001 C CNN
+	1    6700 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW25
+U 1 1 581EDD32
+P 8600 1600
+F 0 "SW25" H 8750 1710 50  0000 C CNN
+F 1 "T" H 8600 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 8600 1600 60  0001 C CNN
+F 3 "" H 8600 1600 60  0001 C CNN
+	1    8600 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D25
+U 1 1 581EDD38
+P 8600 1900
+F 0 "D25" H 8500 1850 40  0000 C CNN
+F 1 "DIODE" H 8600 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 8600 1900 60  0001 C CNN
+F 3 "" H 8600 1900 60  0001 C CNN
+	1    8600 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW26
+U 1 1 581EDD45
+P 8600 2300
+F 0 "SW26" H 8750 2410 50  0000 C CNN
+F 1 "G" H 8600 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 8600 2300 60  0001 C CNN
+F 3 "" H 8600 2300 60  0001 C CNN
+	1    8600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D26
+U 1 1 581EDD4B
+P 8600 2600
+F 0 "D26" H 8500 2550 40  0000 C CNN
+F 1 "DIODE" H 8600 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 8600 2600 60  0001 C CNN
+F 3 "" H 8600 2600 60  0001 C CNN
+	1    8600 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW27
+U 1 1 581EDD58
+P 8600 3000
+F 0 "SW27" H 8750 3110 50  0000 C CNN
+F 1 "B" H 8600 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 8600 3000 60  0001 C CNN
+F 3 "" H 8600 3000 60  0001 C CNN
+	1    8600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D27
+U 1 1 581EDD5E
+P 8600 3300
+F 0 "D27" H 8500 3250 40  0000 C CNN
+F 1 "DIODE" H 8600 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 8600 3300 60  0001 C CNN
+F 3 "" H 8600 3300 60  0001 C CNN
+	1    8600 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW28
+U 1 1 581EDD6B
+P 8600 3700
+F 0 "SW28" H 8750 3810 50  0000 C CNN
+F 1 "SHIFT" H 8600 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 8600 3700 60  0001 C CNN
+F 3 "" H 8600 3700 60  0001 C CNN
+	1    8600 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D28
+U 1 1 581EDD71
+P 8600 4000
+F 0 "D28" H 8500 3950 40  0000 C CNN
+F 1 "DIODE" H 8600 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 8600 4000 60  0001 C CNN
+F 3 "" H 8600 4000 60  0001 C CNN
+	1    8600 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW29
+U 1 1 581EDD91
+P 9550 1600
+F 0 "SW29" H 9700 1710 50  0000 C CNN
+F 1 "R" H 9550 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 9550 1600 60  0001 C CNN
+F 3 "" H 9550 1600 60  0001 C CNN
+	1    9550 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D29
+U 1 1 581EDD97
+P 9550 1900
+F 0 "D29" H 9450 1850 40  0000 C CNN
+F 1 "DIODE" H 9550 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 9550 1900 60  0001 C CNN
+F 3 "" H 9550 1900 60  0001 C CNN
+	1    9550 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW30
+U 1 1 581EDDA4
+P 9550 2300
+F 0 "SW30" H 9700 2410 50  0000 C CNN
+F 1 "F" H 9550 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 9550 2300 60  0001 C CNN
+F 3 "" H 9550 2300 60  0001 C CNN
+	1    9550 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D30
+U 1 1 581EDDAA
+P 9550 2600
+F 0 "D30" H 9450 2550 40  0000 C CNN
+F 1 "DIODE" H 9550 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 9550 2600 60  0001 C CNN
+F 3 "" H 9550 2600 60  0001 C CNN
+	1    9550 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW31
+U 1 1 581EDDB7
+P 9550 3000
+F 0 "SW31" H 9700 3110 50  0000 C CNN
+F 1 "V" H 9550 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 9550 3000 60  0001 C CNN
+F 3 "" H 9550 3000 60  0001 C CNN
+	1    9550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D31
+U 1 1 581EDDBD
+P 9550 3300
+F 0 "D31" H 9450 3250 40  0000 C CNN
+F 1 "DIODE" H 9550 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 9550 3300 60  0001 C CNN
+F 3 "" H 9550 3300 60  0001 C CNN
+	1    9550 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW32
+U 1 1 581EDDCA
+P 9550 3700
+F 0 "SW32" H 9700 3810 50  0000 C CNN
+F 1 "BKSP/LOWER" H 9550 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 9550 3700 60  0001 C CNN
+F 3 "" H 9550 3700 60  0001 C CNN
+	1    9550 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D32
+U 1 1 581EDDD0
+P 9550 4000
+F 0 "D32" H 9450 3950 40  0000 C CNN
+F 1 "DIODE" H 9550 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 9550 4000 60  0001 C CNN
+F 3 "" H 9550 4000 60  0001 C CNN
+	1    9550 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW33
+U 1 1 581EDDF0
+P 10500 1600
+F 0 "SW33" H 10650 1710 50  0000 C CNN
+F 1 "E" H 10500 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 10500 1600 60  0001 C CNN
+F 3 "" H 10500 1600 60  0001 C CNN
+	1    10500 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D33
+U 1 1 581EDDF6
+P 10500 1900
+F 0 "D33" H 10400 1850 40  0000 C CNN
+F 1 "DIODE" H 10500 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 10500 1900 60  0001 C CNN
+F 3 "" H 10500 1900 60  0001 C CNN
+	1    10500 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW34
+U 1 1 581EDE03
+P 10500 2300
+F 0 "SW34" H 10650 2410 50  0000 C CNN
+F 1 "D" H 10500 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 10500 2300 60  0001 C CNN
+F 3 "" H 10500 2300 60  0001 C CNN
+	1    10500 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D34
+U 1 1 581EDE09
+P 10500 2600
+F 0 "D34" H 10400 2550 40  0000 C CNN
+F 1 "DIODE" H 10500 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 10500 2600 60  0001 C CNN
+F 3 "" H 10500 2600 60  0001 C CNN
+	1    10500 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW35
+U 1 1 581EDE16
+P 10500 3000
+F 0 "SW35" H 10650 3110 50  0000 C CNN
+F 1 "C" H 10500 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 10500 3000 60  0001 C CNN
+F 3 "" H 10500 3000 60  0001 C CNN
+	1    10500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D35
+U 1 1 581EDE1C
+P 10500 3300
+F 0 "D35" H 10400 3250 40  0000 C CNN
+F 1 "DIODE" H 10500 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 10500 3300 60  0001 C CNN
+F 3 "" H 10500 3300 60  0001 C CNN
+	1    10500 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW36
+U 1 1 581EDE29
+P 10500 3700
+F 0 "SW36" H 10650 3810 50  0000 C CNN
+F 1 "CMD" H 10500 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 10500 3700 60  0001 C CNN
+F 3 "" H 10500 3700 60  0001 C CNN
+	1    10500 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D36
+U 1 1 581EDE2F
+P 10500 4000
+F 0 "D36" H 10400 3950 40  0000 C CNN
+F 1 "DIODE" H 10500 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 10500 4000 60  0001 C CNN
+F 3 "" H 10500 4000 60  0001 C CNN
+	1    10500 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW37
+U 1 1 581EDE4F
+P 11450 1600
+F 0 "SW37" H 11600 1710 50  0000 C CNN
+F 1 "W" H 11450 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 11450 1600 60  0001 C CNN
+F 3 "" H 11450 1600 60  0001 C CNN
+	1    11450 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D37
+U 1 1 581EDE55
+P 11450 1900
+F 0 "D37" H 11350 1850 40  0000 C CNN
+F 1 "DIODE" H 11450 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 11450 1900 60  0001 C CNN
+F 3 "" H 11450 1900 60  0001 C CNN
+	1    11450 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW38
+U 1 1 581EDE62
+P 11450 2300
+F 0 "SW38" H 11600 2410 50  0000 C CNN
+F 1 "S" H 11450 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 11450 2300 60  0001 C CNN
+F 3 "" H 11450 2300 60  0001 C CNN
+	1    11450 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D38
+U 1 1 581EDE68
+P 11450 2600
+F 0 "D38" H 11350 2550 40  0000 C CNN
+F 1 "DIODE" H 11450 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 11450 2600 60  0001 C CNN
+F 3 "" H 11450 2600 60  0001 C CNN
+	1    11450 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW39
+U 1 1 581EDE75
+P 11450 3000
+F 0 "SW39" H 11600 3110 50  0000 C CNN
+F 1 "X" H 11450 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 11450 3000 60  0001 C CNN
+F 3 "" H 11450 3000 60  0001 C CNN
+	1    11450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D39
+U 1 1 581EDE7B
+P 11450 3300
+F 0 "D39" H 11350 3250 40  0000 C CNN
+F 1 "DIODE" H 11450 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 11450 3300 60  0001 C CNN
+F 3 "" H 11450 3300 60  0001 C CNN
+	1    11450 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW40
+U 1 1 581EDE88
+P 11450 3700
+F 0 "SW40" H 11600 3810 50  0000 C CNN
+F 1 "OPT/TAB" H 11450 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 11450 3700 60  0001 C CNN
+F 3 "" H 11450 3700 60  0001 C CNN
+	1    11450 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D40
+U 1 1 581EDE8E
+P 11450 4000
+F 0 "D40" H 11350 3950 40  0000 C CNN
+F 1 "DIODE" H 11450 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 11450 4000 60  0001 C CNN
+F 3 "" H 11450 4000 60  0001 C CNN
+	1    11450 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW41
+U 1 1 581EDEAE
+P 12400 1600
+F 0 "SW41" H 12550 1710 50  0000 C CNN
+F 1 "Q" H 12400 1520 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 12400 1600 60  0001 C CNN
+F 3 "" H 12400 1600 60  0001 C CNN
+	1    12400 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D41
+U 1 1 581EDEB4
+P 12400 1900
+F 0 "D41" H 12300 1850 40  0000 C CNN
+F 1 "DIODE" H 12400 1950 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 12400 1900 60  0001 C CNN
+F 3 "" H 12400 1900 60  0001 C CNN
+	1    12400 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW42
+U 1 1 581EDEC1
+P 12400 2300
+F 0 "SW42" H 12550 2410 50  0000 C CNN
+F 1 "A" H 12400 2220 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 12400 2300 60  0001 C CNN
+F 3 "" H 12400 2300 60  0001 C CNN
+	1    12400 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D42
+U 1 1 581EDEC7
+P 12400 2600
+F 0 "D42" H 12300 2550 40  0000 C CNN
+F 1 "DIODE" H 12400 2650 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 12400 2600 60  0001 C CNN
+F 3 "" H 12400 2600 60  0001 C CNN
+	1    12400 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW43
+U 1 1 581EDED4
+P 12400 3000
+F 0 "SW43" H 12550 3110 50  0000 C CNN
+F 1 "Z" H 12400 2920 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 12400 3000 60  0001 C CNN
+F 3 "" H 12400 3000 60  0001 C CNN
+	1    12400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D43
+U 1 1 581EDEDA
+P 12400 3300
+F 0 "D43" H 12300 3250 40  0000 C CNN
+F 1 "DIODE" H 12400 3350 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 12400 3300 60  0001 C CNN
+F 3 "" H 12400 3300 60  0001 C CNN
+	1    12400 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW44
+U 1 1 581EDEE7
+P 12400 3700
+F 0 "SW44" H 12550 3810 50  0000 C CNN
+F 1 "CTRL/GRV" H 12400 3620 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 12400 3700 60  0001 C CNN
+F 3 "" H 12400 3700 60  0001 C CNN
+	1    12400 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D44
+U 1 1 581EDEED
+P 12400 4000
+F 0 "D44" H 12300 3950 40  0000 C CNN
+F 1 "DIODE" H 12400 4050 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 12400 4000 60  0001 C CNN
+F 3 "" H 12400 4000 60  0001 C CNN
+	1    12400 4000
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 1600 3200 1900
+Wire Wire Line
+	3200 1900 3100 1900
+Wire Wire Line
+	2600 1600 2550 1600
+Wire Wire Line
+	2550 1600 2550 1400
+Connection ~ 2550 1400
+Wire Wire Line
+	2700 1900 2500 1900
+Wire Wire Line
+	3200 2300 3200 2600
+Wire Wire Line
+	3200 2600 3100 2600
+Wire Wire Line
+	2600 2300 2550 2300
+Wire Wire Line
+	2550 2300 2550 2100
+Connection ~ 2550 2100
+Wire Wire Line
+	2500 2600 2700 2600
+Connection ~ 2500 2600
+Wire Wire Line
+	3200 3000 3200 3300
+Wire Wire Line
+	3200 3300 3100 3300
+Wire Wire Line
+	2600 3000 2550 3000
+Wire Wire Line
+	2550 3000 2550 2800
+Connection ~ 2550 2800
+Wire Wire Line
+	2500 3300 2700 3300
+Connection ~ 2500 3300
+Wire Wire Line
+	3200 3700 3200 4000
+Wire Wire Line
+	3200 4000 3100 4000
+Wire Wire Line
+	2600 3700 2550 3700
+Wire Wire Line
+	2550 3700 2550 3500
+Connection ~ 2550 3500
+Wire Wire Line
+	2500 4000 2700 4000
+Connection ~ 2500 4000
+Wire Wire Line
+	4150 1600 4150 1900
+Wire Wire Line
+	4150 1900 4050 1900
+Wire Wire Line
+	3550 1600 3500 1600
+Wire Wire Line
+	3500 1600 3500 1400
+Connection ~ 3500 1400
+Wire Wire Line
+	3650 1900 3450 1900
+Wire Wire Line
+	4150 2300 4150 2600
+Wire Wire Line
+	4150 2600 4050 2600
+Wire Wire Line
+	3550 2300 3500 2300
+Wire Wire Line
+	3500 2300 3500 2100
+Connection ~ 3500 2100
+Wire Wire Line
+	3450 2600 3650 2600
+Connection ~ 3450 2600
+Wire Wire Line
+	4150 3000 4150 3300
+Wire Wire Line
+	4150 3300 4050 3300
+Wire Wire Line
+	3550 3000 3500 3000
+Wire Wire Line
+	3500 3000 3500 2800
+Connection ~ 3500 2800
+Wire Wire Line
+	3450 3300 3650 3300
+Connection ~ 3450 3300
+Wire Wire Line
+	4150 3700 4150 4000
+Wire Wire Line
+	4150 4000 4050 4000
+Wire Wire Line
+	3550 3700 3500 3700
+Wire Wire Line
+	3500 3700 3500 3500
+Connection ~ 3500 3500
+Wire Wire Line
+	3450 4000 3650 4000
+Connection ~ 3450 4000
+Wire Wire Line
+	5100 1600 5100 1900
+Wire Wire Line
+	5100 1900 5000 1900
+Wire Wire Line
+	4500 1600 4450 1600
+Wire Wire Line
+	4450 1600 4450 1400
+Connection ~ 4450 1400
+Wire Wire Line
+	4600 1900 4400 1900
+Wire Wire Line
+	5100 2300 5100 2600
+Wire Wire Line
+	5100 2600 5000 2600
+Wire Wire Line
+	4500 2300 4450 2300
+Wire Wire Line
+	4450 2300 4450 2100
+Connection ~ 4450 2100
+Wire Wire Line
+	4400 2600 4600 2600
+Connection ~ 4400 2600
+Wire Wire Line
+	5100 3000 5100 3300
+Wire Wire Line
+	5100 3300 5000 3300
+Wire Wire Line
+	4500 3000 4450 3000
+Wire Wire Line
+	4450 3000 4450 2800
+Connection ~ 4450 2800
+Wire Wire Line
+	4400 3300 4600 3300
+Connection ~ 4400 3300
+Wire Wire Line
+	5100 3700 5100 4000
+Wire Wire Line
+	5100 4000 5000 4000
+Wire Wire Line
+	4500 3700 4450 3700
+Wire Wire Line
+	4450 3700 4450 3500
+Connection ~ 4450 3500
+Wire Wire Line
+	4400 4000 4600 4000
+Connection ~ 4400 4000
+Wire Wire Line
+	6050 1600 6050 1900
+Wire Wire Line
+	6050 1900 5950 1900
+Wire Wire Line
+	5450 1600 5400 1600
+Wire Wire Line
+	5400 1600 5400 1400
+Connection ~ 5400 1400
+Wire Wire Line
+	5550 1900 5350 1900
+Wire Wire Line
+	6050 2300 6050 2600
+Wire Wire Line
+	6050 2600 5950 2600
+Wire Wire Line
+	5450 2300 5400 2300
+Wire Wire Line
+	5400 2300 5400 2100
+Connection ~ 5400 2100
+Wire Wire Line
+	5350 2600 5550 2600
+Connection ~ 5350 2600
+Wire Wire Line
+	6050 3000 6050 3300
+Wire Wire Line
+	6050 3300 5950 3300
+Wire Wire Line
+	5450 3000 5400 3000
+Wire Wire Line
+	5400 3000 5400 2800
+Connection ~ 5400 2800
+Wire Wire Line
+	5350 3300 5550 3300
+Connection ~ 5350 3300
+Wire Wire Line
+	6050 3700 6050 4000
+Wire Wire Line
+	6050 4000 5950 4000
+Wire Wire Line
+	5450 3700 5400 3700
+Wire Wire Line
+	5400 3700 5400 3500
+Connection ~ 5400 3500
+Wire Wire Line
+	5350 4000 5550 4000
+Connection ~ 5350 4000
+Wire Wire Line
+	7000 1600 7000 1900
+Wire Wire Line
+	7000 1900 6900 1900
+Wire Wire Line
+	6400 1600 6350 1600
+Wire Wire Line
+	6350 1600 6350 1400
+Connection ~ 6350 1400
+Wire Wire Line
+	6500 1900 6300 1900
+Wire Wire Line
+	7000 2300 7000 2600
+Wire Wire Line
+	7000 2600 6900 2600
+Wire Wire Line
+	6400 2300 6350 2300
+Wire Wire Line
+	6350 2300 6350 2100
+Connection ~ 6350 2100
+Wire Wire Line
+	6300 2600 6500 2600
+Connection ~ 6300 2600
+Wire Wire Line
+	7000 3000 7000 3300
+Wire Wire Line
+	7000 3300 6900 3300
+Wire Wire Line
+	6400 3000 6350 3000
+Wire Wire Line
+	6350 3000 6350 2800
+Connection ~ 6350 2800
+Wire Wire Line
+	6300 3300 6500 3300
+Connection ~ 6300 3300
+Wire Wire Line
+	7000 3700 7000 4000
+Wire Wire Line
+	7000 4000 6900 4000
+Wire Wire Line
+	6400 3700 6350 3700
+Wire Wire Line
+	6350 3700 6350 3500
+Connection ~ 6350 3500
+Wire Wire Line
+	6300 4000 6500 4000
+Connection ~ 6300 4000
+Wire Wire Line
+	8900 1600 8900 1900
+Wire Wire Line
+	8900 1900 8800 1900
+Wire Wire Line
+	8300 1600 8250 1600
+Wire Wire Line
+	8250 1600 8250 1400
+Connection ~ 8250 1400
+Wire Wire Line
+	8400 1900 8200 1900
+Wire Wire Line
+	8900 2300 8900 2600
+Wire Wire Line
+	8900 2600 8800 2600
+Wire Wire Line
+	8300 2300 8250 2300
+Wire Wire Line
+	8250 2300 8250 2100
+Connection ~ 8250 2100
+Wire Wire Line
+	8200 2600 8400 2600
+Connection ~ 8200 2600
+Wire Wire Line
+	8900 3000 8900 3300
+Wire Wire Line
+	8900 3300 8800 3300
+Wire Wire Line
+	8300 3000 8250 3000
+Wire Wire Line
+	8250 3000 8250 2800
+Connection ~ 8250 2800
+Wire Wire Line
+	8200 3300 8400 3300
+Connection ~ 8200 3300
+Wire Wire Line
+	8900 3700 8900 4000
+Wire Wire Line
+	8900 4000 8800 4000
+Wire Wire Line
+	8300 3700 8250 3700
+Wire Wire Line
+	8250 3700 8250 3500
+Connection ~ 8250 3500
+Wire Wire Line
+	8200 4000 8400 4000
+Connection ~ 8200 4000
+Wire Wire Line
+	9850 1600 9850 1900
+Wire Wire Line
+	9850 1900 9750 1900
+Wire Wire Line
+	9250 1600 9200 1600
+Wire Wire Line
+	9200 1600 9200 1400
+Connection ~ 9200 1400
+Wire Wire Line
+	9350 1900 9150 1900
+Wire Wire Line
+	9850 2300 9850 2600
+Wire Wire Line
+	9850 2600 9750 2600
+Wire Wire Line
+	9250 2300 9200 2300
+Wire Wire Line
+	9200 2300 9200 2100
+Connection ~ 9200 2100
+Wire Wire Line
+	9150 2600 9350 2600
+Connection ~ 9150 2600
+Wire Wire Line
+	9850 3000 9850 3300
+Wire Wire Line
+	9850 3300 9750 3300
+Wire Wire Line
+	9250 3000 9200 3000
+Wire Wire Line
+	9200 3000 9200 2800
+Connection ~ 9200 2800
+Wire Wire Line
+	9150 3300 9350 3300
+Connection ~ 9150 3300
+Wire Wire Line
+	9850 3700 9850 4000
+Wire Wire Line
+	9850 4000 9750 4000
+Wire Wire Line
+	9250 3700 9200 3700
+Wire Wire Line
+	9200 3700 9200 3500
+Connection ~ 9200 3500
+Wire Wire Line
+	9150 4000 9350 4000
+Connection ~ 9150 4000
+Wire Wire Line
+	10800 1600 10800 1900
+Wire Wire Line
+	10800 1900 10700 1900
+Wire Wire Line
+	10200 1600 10150 1600
+Wire Wire Line
+	10150 1600 10150 1400
+Connection ~ 10150 1400
+Wire Wire Line
+	10300 1900 10100 1900
+Wire Wire Line
+	10800 2300 10800 2600
+Wire Wire Line
+	10800 2600 10700 2600
+Wire Wire Line
+	10200 2300 10150 2300
+Wire Wire Line
+	10150 2300 10150 2100
+Connection ~ 10150 2100
+Wire Wire Line
+	10100 2600 10300 2600
+Connection ~ 10100 2600
+Wire Wire Line
+	10800 3000 10800 3300
+Wire Wire Line
+	10800 3300 10700 3300
+Wire Wire Line
+	10200 3000 10150 3000
+Wire Wire Line
+	10150 3000 10150 2800
+Connection ~ 10150 2800
+Wire Wire Line
+	10100 3300 10300 3300
+Connection ~ 10100 3300
+Wire Wire Line
+	10800 3700 10800 4000
+Wire Wire Line
+	10800 4000 10700 4000
+Wire Wire Line
+	10200 3700 10150 3700
+Wire Wire Line
+	10150 3700 10150 3500
+Connection ~ 10150 3500
+Wire Wire Line
+	10100 4000 10300 4000
+Connection ~ 10100 4000
+Wire Wire Line
+	11750 1600 11750 1900
+Wire Wire Line
+	11750 1900 11650 1900
+Wire Wire Line
+	11150 1600 11100 1600
+Wire Wire Line
+	11100 1600 11100 1400
+Connection ~ 11100 1400
+Wire Wire Line
+	11250 1900 11050 1900
+Wire Wire Line
+	11750 2300 11750 2600
+Wire Wire Line
+	11750 2600 11650 2600
+Wire Wire Line
+	11150 2300 11100 2300
+Wire Wire Line
+	11100 2300 11100 2100
+Connection ~ 11100 2100
+Wire Wire Line
+	11050 2600 11250 2600
+Connection ~ 11050 2600
+Wire Wire Line
+	11750 3000 11750 3300
+Wire Wire Line
+	11750 3300 11650 3300
+Wire Wire Line
+	11150 3000 11100 3000
+Wire Wire Line
+	11100 3000 11100 2800
+Connection ~ 11100 2800
+Wire Wire Line
+	11050 3300 11250 3300
+Connection ~ 11050 3300
+Wire Wire Line
+	11750 3700 11750 4000
+Wire Wire Line
+	11750 4000 11650 4000
+Wire Wire Line
+	11150 3700 11100 3700
+Wire Wire Line
+	11100 3700 11100 3500
+Connection ~ 11100 3500
+Wire Wire Line
+	11050 4000 11250 4000
+Connection ~ 11050 4000
+Wire Wire Line
+	12700 1600 12700 1900
+Wire Wire Line
+	12700 1900 12600 1900
+Wire Wire Line
+	12100 1600 12050 1600
+Wire Wire Line
+	12050 1600 12050 1400
+Wire Wire Line
+	12200 1900 12000 1900
+Wire Wire Line
+	12700 2300 12700 2600
+Wire Wire Line
+	12700 2600 12600 2600
+Wire Wire Line
+	12100 2300 12050 2300
+Wire Wire Line
+	12050 2300 12050 2100
+Wire Wire Line
+	12000 2600 12200 2600
+Connection ~ 12000 2600
+Wire Wire Line
+	12700 3000 12700 3300
+Wire Wire Line
+	12700 3300 12600 3300
+Wire Wire Line
+	12100 3000 12050 3000
+Wire Wire Line
+	12050 3000 12050 2800
+Wire Wire Line
+	12000 3300 12200 3300
+Connection ~ 12000 3300
+Wire Wire Line
+	12700 3700 12700 4000
+Wire Wire Line
+	12700 4000 12600 4000
+Wire Wire Line
+	12100 3700 12050 3700
+Wire Wire Line
+	12050 3700 12050 3500
+Wire Wire Line
+	12000 4000 12200 4000
+Connection ~ 12000 4000
+Text Label 2300 3500 2    60   ~ 0
+ROW3
+Text Label 2300 2800 2    60   ~ 0
+ROW2
+Text Label 2300 2100 2    60   ~ 0
+ROW1
+Text Label 2300 1400 2    60   ~ 0
+ROW0
+Text Label 2500 5150 3    60   ~ 0
+COL1
+Text Label 3450 5150 3    60   ~ 0
+COL2
+Text Label 4400 5150 3    60   ~ 0
+COL3
+Text Label 5350 5150 3    60   ~ 0
+COL4
+Text Label 6300 5150 3    60   ~ 0
+COL5
+Text Label 8200 5150 3    60   ~ 0
+COL6
+Text Label 9150 5150 3    60   ~ 0
+COL7
+Text Label 10100 5150 3    60   ~ 0
+COL8
+Text Label 11050 5150 3    60   ~ 0
+COL9
+Text Label 12000 5150 3    60   ~ 0
+COL10
+Text Label 7900 6500 2    60   ~ 0
+ROW3
+Text Label 7900 6300 2    60   ~ 0
+ROW2
+Text Label 7900 6200 2    60   ~ 0
+ROW1
+Text Label 7900 6100 2    60   ~ 0
+ROW0
+Text Label 7900 6600 2    60   ~ 0
+COL1
+Text Label 7900 7000 2    60   ~ 0
+COL2
+Text Label 7900 7100 2    60   ~ 0
+COL3
+Text Label 8750 7100 0    60   ~ 0
+COL4
+Text Label 8750 7200 0    60   ~ 0
+COL5
+Text Label 8750 7000 0    60   ~ 0
+COL6
+Text Label 8750 6900 0    60   ~ 0
+COL7
+Text Label 8750 6700 0    60   ~ 0
+COL8
+Text Label 8750 6600 0    60   ~ 0
+COL9
+Text Label 8750 6500 0    60   ~ 0
+COL10
+Wire Wire Line
+	2500 1900 2500 2600
+Wire Wire Line
+	2500 2600 2500 3300
+Wire Wire Line
+	2500 3300 2500 4000
+Wire Wire Line
+	3500 1400 2550 1400
+Wire Wire Line
+	3450 1900 3450 2600
+Wire Wire Line
+	3500 2100 2550 2100
+Wire Wire Line
+	3450 2600 3450 3300
+Wire Wire Line
+	3500 2800 2550 2800
+Wire Wire Line
+	3450 3300 3450 4000
+Wire Wire Line
+	3500 3500 2550 3500
+Wire Wire Line
+	4450 1400 3500 1400
+Wire Wire Line
+	4400 1900 4400 2600
+Wire Wire Line
+	4450 2100 3500 2100
+Wire Wire Line
+	4400 2600 4400 3300
+Wire Wire Line
+	4450 2800 3500 2800
+Wire Wire Line
+	4400 3300 4400 4000
+Wire Wire Line
+	4450 3500 3500 3500
+Wire Wire Line
+	5400 1400 4450 1400
+Wire Wire Line
+	5350 1900 5350 2600
+Wire Wire Line
+	5400 2100 4450 2100
+Wire Wire Line
+	5350 2600 5350 3300
+Wire Wire Line
+	5400 2800 4450 2800
+Wire Wire Line
+	5350 3300 5350 4000
+Wire Wire Line
+	5400 3500 4450 3500
+Wire Wire Line
+	6350 1400 5400 1400
+Wire Wire Line
+	6300 1900 6300 2600
+Wire Wire Line
+	6350 2100 5400 2100
+Wire Wire Line
+	6300 2600 6300 3300
+Wire Wire Line
+	6350 2800 5400 2800
+Wire Wire Line
+	6300 3300 6300 4000
+Wire Wire Line
+	6350 3500 5400 3500
+Wire Wire Line
+	8250 1400 6350 1400
+Wire Wire Line
+	8200 1900 8200 2600
+Wire Wire Line
+	8250 2100 6350 2100
+Wire Wire Line
+	8200 2600 8200 3300
+Wire Wire Line
+	8200 3300 8200 4000
+Wire Wire Line
+	9200 1400 8250 1400
+Wire Wire Line
+	9150 1900 9150 2600
+Wire Wire Line
+	9200 2100 8250 2100
+Wire Wire Line
+	9150 2600 9150 3300
+Wire Wire Line
+	9200 2800 8250 2800
+Wire Wire Line
+	9150 3300 9150 4000
+Wire Wire Line
+	9200 3500 8250 3500
+Wire Wire Line
+	10150 1400 9200 1400
+Wire Wire Line
+	10100 1900 10100 2600
+Wire Wire Line
+	10150 2100 9200 2100
+Wire Wire Line
+	10100 2600 10100 3300
+Wire Wire Line
+	10150 2800 9200 2800
+Wire Wire Line
+	10100 3300 10100 4000
+Wire Wire Line
+	10150 3500 9200 3500
+Wire Wire Line
+	11100 1400 10150 1400
+Wire Wire Line
+	11050 1900 11050 2600
+Wire Wire Line
+	11100 2100 10150 2100
+Wire Wire Line
+	11050 2600 11050 3300
+Wire Wire Line
+	11100 2800 10150 2800
+Wire Wire Line
+	11050 3300 11050 4000
+Wire Wire Line
+	11100 3500 10150 3500
+Wire Wire Line
+	12050 1400 11100 1400
+Wire Wire Line
+	12000 1900 12000 2600
+Wire Wire Line
+	12050 2100 11100 2100
+Wire Wire Line
+	12000 2600 12000 3300
+Wire Wire Line
+	12050 2800 11100 2800
+Wire Wire Line
+	12000 3300 12000 4000
+Wire Wire Line
+	12050 3500 11100 3500
+Wire Wire Line
+	6350 2800 8250 2800
+Wire Wire Line
+	6350 3500 8250 3500
+Wire Wire Line
+	7900 6000 7700 6000
+$Comp
+L Laptreus-v1-rescue:GND- #PWR028
+U 1 1 5CA2C97E
+P 7700 6000
+F 0 "#PWR028" H 7700 5750 50  0001 C CNN
+F 1 "GND" H 7700 5850 50  0000 C CNN
+F 2 "" H 7700 6000 50  0000 C CNN
+F 3 "" H 7700 6000 50  0000 C CNN
+	1    7700 6000
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboard_parts:+3V3 #PWR0101
+U 1 1 5CD2DD17
+P 7700 5800
+F 0 "#PWR0101" H 7700 5770 20  0001 C CNN
+F 1 "+3V3" V 7700 5908 30  0000 L CNN
+F 2 "" H 7700 5800 60  0000 C CNN
+F 3 "" H 7700 5800 60  0000 C CNN
+	1    7700 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7700 5800 7900 5800
+$Comp
+L components:SWITCH_PUSH SW1
+U 1 1 5CF30965
+P 2900 4450
+F 0 "SW1" H 3050 4560 50  0000 C CNN
+F 1 "_" H 2900 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 2900 4450 60  0001 C CNN
+F 3 "" H 2900 4450 60  0001 C CNN
+	1    2900 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D1
+U 1 1 5CF3096C
+P 2900 4750
+F 0 "D1" H 2800 4700 40  0000 C CNN
+F 1 "DIODE" H 2900 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 2900 4750 60  0001 C CNN
+F 3 "" H 2900 4750 60  0001 C CNN
+	1    2900 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW2
+U 1 1 5CF30973
+P 3850 4450
+F 0 "SW2" H 4000 4560 50  0000 C CNN
+F 1 "\"" H 3850 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 3850 4450 60  0001 C CNN
+F 3 "" H 3850 4450 60  0001 C CNN
+	1    3850 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D2
+U 1 1 5CF3097A
+P 3850 4750
+F 0 "D2" H 3750 4700 40  0000 C CNN
+F 1 "DIODE" H 3850 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 3850 4750 60  0001 C CNN
+F 3 "" H 3850 4750 60  0001 C CNN
+	1    3850 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW3
+U 1 1 5CF30981
+P 4800 4450
+F 0 "SW3" H 4950 4560 50  0000 C CNN
+F 1 "ENTER" H 4800 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 4800 4450 60  0001 C CNN
+F 3 "" H 4800 4450 60  0001 C CNN
+	1    4800 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D3
+U 1 1 5CF30988
+P 4800 4750
+F 0 "D3" H 4700 4700 40  0000 C CNN
+F 1 "DIODE" H 4800 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 4800 4750 60  0001 C CNN
+F 3 "" H 4800 4750 60  0001 C CNN
+	1    4800 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW4
+U 1 1 5CF3098F
+P 5750 4450
+F 0 "SW4" H 5900 4560 50  0000 C CNN
+F 1 "RIGHT" H 5750 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 5750 4450 60  0001 C CNN
+F 3 "" H 5750 4450 60  0001 C CNN
+	1    5750 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D4
+U 1 1 5CF30996
+P 5750 4750
+F 0 "D4" H 5650 4700 40  0000 C CNN
+F 1 "DIODE" H 5750 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 5750 4750 60  0001 C CNN
+F 3 "" H 5750 4750 60  0001 C CNN
+	1    5750 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW47
+U 1 1 5CF309B9
+P 9550 4450
+F 0 "SW47" H 9700 4560 50  0000 C CNN
+F 1 "HYPER" H 9550 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 9550 4450 60  0001 C CNN
+F 3 "" H 9550 4450 60  0001 C CNN
+	1    9550 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D47
+U 1 1 5CF309C0
+P 9550 4750
+F 0 "D47" H 9450 4700 40  0000 C CNN
+F 1 "DIODE" H 9550 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 9550 4750 60  0001 C CNN
+F 3 "" H 9550 4750 60  0001 C CNN
+	1    9550 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW48
+U 1 1 5CF309C7
+P 10500 4450
+F 0 "SW48" H 10650 4560 50  0000 C CNN
+F 1 "SHIFT" H 10500 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 10500 4450 60  0001 C CNN
+F 3 "" H 10500 4450 60  0001 C CNN
+	1    10500 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D48
+U 1 1 5CF309CE
+P 10500 4750
+F 0 "D48" H 10400 4700 40  0000 C CNN
+F 1 "DIODE" H 10500 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 10500 4750 60  0001 C CNN
+F 3 "" H 10500 4750 60  0001 C CNN
+	1    10500 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW49
+U 1 1 5CF309D5
+P 11450 4450
+F 0 "SW49" H 11600 4560 50  0000 C CNN
+F 1 "ESC" H 11450 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 11450 4450 60  0001 C CNN
+F 3 "" H 11450 4450 60  0001 C CNN
+	1    11450 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D49
+U 1 1 5CF309DC
+P 11450 4750
+F 0 "D49" H 11350 4700 40  0000 C CNN
+F 1 "DIODE" H 11450 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 11450 4750 60  0001 C CNN
+F 3 "" H 11450 4750 60  0001 C CNN
+	1    11450 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW50
+U 1 1 5CF309E3
+P 12400 4450
+F 0 "SW50" H 12550 4560 50  0000 C CNN
+F 1 "TAB" H 12400 4370 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 12400 4450 60  0001 C CNN
+F 3 "" H 12400 4450 60  0001 C CNN
+	1    12400 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:DIODE D50
+U 1 1 5CF309EA
+P 12400 4750
+F 0 "D50" H 12300 4700 40  0000 C CNN
+F 1 "DIODE" H 12400 4800 40  0000 C CNN
+F 2 "Laptreus-v1:Diode-dual" H 12400 4750 60  0001 C CNN
+F 3 "" H 12400 4750 60  0001 C CNN
+	1    12400 4750
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 4450 3200 4750
+Wire Wire Line
+	3200 4750 3100 4750
+Wire Wire Line
+	2600 4450 2550 4450
+Wire Wire Line
+	2550 4450 2550 4250
+Connection ~ 2550 4250
+Wire Wire Line
+	2500 4750 2700 4750
+Connection ~ 2500 4750
+Wire Wire Line
+	4150 4450 4150 4750
+Wire Wire Line
+	4150 4750 4050 4750
+Wire Wire Line
+	3550 4450 3500 4450
+Wire Wire Line
+	3500 4450 3500 4250
+Connection ~ 3500 4250
+Wire Wire Line
+	3450 4750 3650 4750
+Connection ~ 3450 4750
+Wire Wire Line
+	5100 4450 5100 4750
+Wire Wire Line
+	5100 4750 5000 4750
+Wire Wire Line
+	4500 4450 4450 4450
+Wire Wire Line
+	4450 4450 4450 4250
+Connection ~ 4450 4250
+Wire Wire Line
+	4400 4750 4600 4750
+Connection ~ 4400 4750
+Wire Wire Line
+	6050 4450 6050 4750
+Wire Wire Line
+	6050 4750 5950 4750
+Wire Wire Line
+	5450 4450 5400 4450
+Wire Wire Line
+	5400 4450 5400 4250
+Connection ~ 5400 4250
+Wire Wire Line
+	5350 4750 5550 4750
+Connection ~ 5350 4750
+Wire Wire Line
+	9850 4450 9850 4750
+Wire Wire Line
+	9850 4750 9750 4750
+Wire Wire Line
+	9250 4450 9200 4450
+Wire Wire Line
+	9200 4450 9200 4250
+Connection ~ 9200 4250
+Wire Wire Line
+	9150 4750 9350 4750
+Connection ~ 9150 4750
+Wire Wire Line
+	10800 4450 10800 4750
+Wire Wire Line
+	10800 4750 10700 4750
+Wire Wire Line
+	10200 4450 10150 4450
+Wire Wire Line
+	10150 4450 10150 4250
+Connection ~ 10150 4250
+Wire Wire Line
+	10100 4750 10300 4750
+Connection ~ 10100 4750
+Wire Wire Line
+	11750 4450 11750 4750
+Wire Wire Line
+	11750 4750 11650 4750
+Wire Wire Line
+	11150 4450 11100 4450
+Wire Wire Line
+	11100 4450 11100 4250
+Connection ~ 11100 4250
+Wire Wire Line
+	11050 4750 11250 4750
+Connection ~ 11050 4750
+Wire Wire Line
+	12700 4450 12700 4750
+Wire Wire Line
+	12700 4750 12600 4750
+Wire Wire Line
+	12100 4450 12050 4450
+Wire Wire Line
+	12050 4450 12050 4250
+Wire Wire Line
+	12000 4750 12200 4750
+Connection ~ 12000 4750
+Text Label 2300 4250 2    60   ~ 0
+ROW4
+Wire Wire Line
+	2500 4750 2500 5150
+Wire Wire Line
+	3500 4250 2550 4250
+Wire Wire Line
+	3450 4750 3450 5150
+Wire Wire Line
+	4450 4250 3500 4250
+Wire Wire Line
+	4400 4750 4400 5150
+Wire Wire Line
+	5400 4250 4450 4250
+Wire Wire Line
+	5350 4750 5350 5150
+Wire Wire Line
+	9150 4750 9150 5150
+Wire Wire Line
+	10150 4250 9200 4250
+Wire Wire Line
+	10100 4750 10100 5150
+Wire Wire Line
+	11100 4250 10150 4250
+Wire Wire Line
+	11050 4750 11050 5150
+Wire Wire Line
+	12050 4250 11100 4250
+Wire Wire Line
+	12000 4750 12000 5150
+Wire Wire Line
+	2500 4000 2500 4750
+Wire Wire Line
+	3450 4000 3450 4750
+Wire Wire Line
+	4400 4000 4400 4750
+Wire Wire Line
+	5350 4000 5350 4750
+Wire Wire Line
+	9150 4000 9150 4750
+Wire Wire Line
+	10100 4000 10100 4750
+Wire Wire Line
+	11050 4000 11050 4750
+Wire Wire Line
+	12000 4000 12000 4750
+Wire Wire Line
+	2300 4250 2550 4250
+Wire Wire Line
+	2300 3500 2550 3500
+Wire Wire Line
+	2300 2800 2550 2800
+Wire Wire Line
+	2300 2100 2550 2100
+Wire Wire Line
+	2300 1400 2550 1400
+Text Label 7900 6400 2    60   ~ 0
+ROW4
+Wire Wire Line
+	8200 4000 8200 5150
+Wire Wire Line
+	5400 4250 9200 4250
+Wire Wire Line
+	6300 4000 6300 5150
+$Comp
+L Connector_Generic:Conn_01x12 J2
+U 1 1 5C20E058
+P 8550 6700
+F 0 "J2" H 8470 5875 50  0000 C CNN
+F 1 "Conn_01x12" H 8470 5966 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical" H 8550 6700 50  0001 C CNN
+F 3 "~" H 8550 6700 50  0001 C CNN
+	1    8550 6700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x16 J1
+U 1 1 5C201939
+P 8100 6400
+F 0 "J1" H 8180 6392 50  0000 L CNN
+F 1 "Conn_01x16" H 8180 6301 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 8100 6400 50  0001 C CNN
+F 3 "~" H 8100 6400 50  0001 C CNN
+	1    8100 6400
+	1    0    0    -1  
+$EndComp
+NoConn ~ 7900 5900
+NoConn ~ 7900 6700
+NoConn ~ 7900 6800
+NoConn ~ 7900 6900
+NoConn ~ 7900 7200
+NoConn ~ 8750 6800
+NoConn ~ 8750 6300
+NoConn ~ 8750 6400
+NoConn ~ 8750 6100
+Text Label 7900 5700 2    50   ~ 0
+RESET
+$Comp
+L Switch:SW_SPDT SW_POW_EN1
+U 1 1 5C2E5EE2
+P 9400 6200
+F 0 "SW_POW_EN1" H 9400 5875 50  0000 C CNN
+F 1 "SW_SPDT" H 9400 5966 50  0000 C CNN
+F 2 "Laptreus-v1:EG1218" H 9400 6200 50  0001 C CNN
+F 3 "" H 9400 6200 50  0001 C CNN
+	1    9400 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Laptreus-v1-rescue:GND- #PWR01
+U 1 1 5C307FD1
+P 9700 6100
+F 0 "#PWR01" H 9700 5850 50  0001 C CNN
+F 1 "GND" H 9700 5950 50  0000 C CNN
+F 2 "" H 9700 6100 50  0000 C CNN
+F 3 "" H 9700 6100 50  0000 C CNN
+	1    9700 6100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 6100 9700 6100
+$Comp
+L components:SWITCH_PUSH SW_RESET1
+U 1 1 5C348F99
+P 9650 6900
+F 0 "SW_RESET1" H 9650 7155 50  0000 C CNN
+F 1 "SWITCH_PUSH" H 9650 7064 50  0000 C CNN
+F 2 "Laptreus-v1:SW_SPST_B3U-1000P" H 9650 6900 50  0001 C CNN
+F 3 "" H 9650 6900 50  0001 C CNN
+	1    9650 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Laptreus-v1-rescue:GND- #PWR02
+U 1 1 5C349D6D
+P 10100 6900
+F 0 "#PWR02" H 10100 6650 50  0001 C CNN
+F 1 "GND" H 10100 6750 50  0000 C CNN
+F 2 "" H 10100 6900 50  0000 C CNN
+F 3 "" H 10100 6900 50  0000 C CNN
+	1    10100 6900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9950 6900 10100 6900
+Text Label 9350 6900 2    50   ~ 0
+RESET
+NoConn ~ 9600 6300
+$Comp
+L keebio:Hole H5
+U 1 1 5C511F7B
+P 12150 6000
+F 0 "H5" H 12336 6053 60  0000 L CNN
+F 1 "Hole" H 12336 5947 60  0000 L CNN
+F 2 "Laptreus-v1:HOLE_M3" H 12150 6000 60  0001 C CNN
+F 3 "" H 12150 6000 60  0001 C CNN
+	1    12150 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H6
+U 1 1 5C51238C
+P 12150 6400
+F 0 "H6" H 12336 6453 60  0000 L CNN
+F 1 "Hole" H 12336 6347 60  0000 L CNN
+F 2 "Laptreus-v1:HOLE_M3" H 12150 6400 60  0001 C CNN
+F 3 "" H 12150 6400 60  0001 C CNN
+	1    12150 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H3
+U 1 1 5C514E68
+P 11550 6800
+F 0 "H3" H 11736 6853 60  0000 L CNN
+F 1 "Hole" H 11736 6747 60  0000 L CNN
+F 2 "Laptreus-v1:HOLE_M2.6" H 11550 6800 60  0001 C CNN
+F 3 "" H 11550 6800 60  0001 C CNN
+	1    11550 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H7
+U 1 1 5C514E6E
+P 12150 6800
+F 0 "H7" H 12336 6853 60  0000 L CNN
+F 1 "Hole" H 12336 6747 60  0000 L CNN
+F 2 "Laptreus-v1:HOLE_M3" H 12150 6800 60  0001 C CNN
+F 3 "" H 12150 6800 60  0001 C CNN
+	1    12150 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H8
+U 1 1 5C514E74
+P 12150 7200
+F 0 "H8" H 12336 7253 60  0000 L CNN
+F 1 "Hole" H 12336 7147 60  0000 L CNN
+F 2 "Laptreus-v1:HOLE_M3" H 12150 7200 60  0001 C CNN
+F 3 "" H 12150 7200 60  0001 C CNN
+	1    12150 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H4
+U 1 1 5C514E7A
+P 11550 7200
+F 0 "H4" H 11736 7253 60  0000 L CNN
+F 1 "Hole" H 11736 7147 60  0000 L CNN
+F 2 "Laptreus-v1:HOLE_M2.6" H 11550 7200 60  0001 C CNN
+F 3 "" H 11550 7200 60  0001 C CNN
+	1    11550 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L components:SWITCH_PUSH SW_RESET2
+U 1 1 5C539723
+P 9650 7200
+F 0 "SW_RESET2" H 9650 7455 50  0000 C CNN
+F 1 "SWITCH_PUSH" H 9650 7364 50  0000 C CNN
+F 2 "Laptreus-v1:Hybrid_Kailh_MX_Socket_Through_Hole" H 9650 7200 50  0001 C CNN
+F 3 "" H 9650 7200 50  0001 C CNN
+	1    9650 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Laptreus-v1-rescue:GND- #PWR03
+U 1 1 5C539729
+P 10100 7200
+F 0 "#PWR03" H 10100 6950 50  0001 C CNN
+F 1 "GND" H 10100 7050 50  0000 C CNN
+F 2 "" H 10100 7200 50  0000 C CNN
+F 3 "" H 10100 7200 50  0000 C CNN
+	1    10100 7200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9950 7200 10100 7200
+Text Label 9350 7200 2    50   ~ 0
+RESET
+Text Label 8750 6200 0    50   ~ 0
+Enable
+Text Label 9200 6200 1    50   ~ 0
+Enable
+$EndSCHEMATC

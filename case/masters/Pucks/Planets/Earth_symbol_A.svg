@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   version="1.0"
+   sodipodi:docbase="C:\Home\tw\Desktop"
+   sodipodi:docname="aaa.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5029545"
+     inkscape:cx="40.050597"
+     inkscape:cy="54.090251"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-325,-507.3622)">
+    <rect
+       style="fill:none"
+       y="507.36221"
+       x="325"
+       id="rect34876"
+       width="50"
+       height="50" />
+    <path
+       style="fill:white;stroke:#030403;stroke-width:2.91179991"
+       id="path6772"
+       rx="15.5"
+       type="arc"
+       cx="33.5"
+       ry="15.5"
+       cy="116.5"
+       d="M 366.47,532.3622 C 366.47,541.1812 359.32,548.3322 350.499,548.3322 C 341.68,548.3322 334.53,541.1812 334.53,532.3622 C 334.53,523.5422 341.68,516.3922 350.499,516.3922 C 359.32,516.3922 366.47,523.5422 366.47,532.3622 z " />
+    <path
+       style="fill:none;stroke:#030403;stroke-width:3"
+       id="path6774"
+       d="M 334.5,532.3622 L 366.5,532.3622" />
+    <path
+       style="fill:none;stroke:#030403;stroke-width:3"
+       id="path6776"
+       d="M 350.5,516.3622 L 350.5,548.3622" />
+  </g>
+</svg>

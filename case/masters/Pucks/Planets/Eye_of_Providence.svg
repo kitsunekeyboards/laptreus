@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="50" width="50"
+fill="none" stroke="#000" stroke-width="3">
+<circle cx="25" cy="25" r="16"/>
+<circle cx="25" cy="25" r=".5"/>
+<path d="M13,31 25,14 37,31"/>
+</svg>

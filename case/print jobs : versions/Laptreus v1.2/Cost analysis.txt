@@ -1,0 +1,22 @@
+Need enough for 10 boards
+
+Prime - 40
+1 7x black core - 102+52+36=190 - 27per
+1 7x black top/bottom - 58+50=108 - 15.5per
+2 1x glitter top/bottom - 71+71=142 - 71per
+
+1 7x clear core - 98+48+32=178 - 25per
+1 3x opal top/bottom - 52 - 17per
+
+Subtotal: 40+190+108+142+178+52
+Total: 710
+
+All black case: 42.5
+Black glitter case: 98
+Clear/Opal: 42
+
+
+http://paletton.com/#uid=13s0u0kouR-13+WfmVZBJKPDsk-
+https://deskthority.net/wiki/Signature_Plastics_ABS_colours
+
+BBQ (00a6b4) and WFK (e5e4df)
