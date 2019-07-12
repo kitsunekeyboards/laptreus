@@ -1,4 +1,11 @@
-20094837803160
+27914194681160
+Laptreus v2 Footprints
+67503
+http://www.tme.eu/pl/Document/af7e127923dc7f74ac659db082bbc882/mx54819.pdf
+54819
+0
+9
+5
 Laptreus v2 Footprints
 Adafruit Feather 32u4 BLE
 
@@ -27,6 +34,13 @@ EG1218
 0
 3
 3
+Laptreus v2 Footprints
+FIDUCIAL
+
+
+0
+1
+1
 Laptreus v2 Footprints
 full-silk
 
@@ -60,7 +74,7 @@ Hybrid_Kailh_MX_Socket_Through_Hole
 
 
 0
-11
+12
 2
 Laptreus v2 Footprints
 Kailh_MX_Socket_Through_Hole
@@ -69,6 +83,27 @@ Kailh_MX_Socket_Through_Hole
 0
 4
 2
+Laptreus v2 Footprints
+KSEM31GLFS
+http://www.dip.com.tw/PDF/DTSJW-6-V.pdf
+microswitch tact
+0
+4
+4
+Laptreus v2 Footprints
+PKRH
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRHSL
+
+
+0
+1
+1
 Laptreus v2 Footprints
 switch-hole-dimensions
 
