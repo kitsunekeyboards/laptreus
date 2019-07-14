@@ -1,4 +1,195 @@
-27914194681160
+76321287634417
+Adafruit Feather 32u4 Bluefruit LE
+1X12_ROUND
+
+
+0
+12
+12
+Adafruit Feather 32u4 Bluefruit LE
+1X16_ROUND
+<b>PIN HEADER</b>
+
+0
+16
+16
+Adafruit Feather 32u4 Bluefruit LE
+4UCONN_20329_V2
+
+
+0
+11
+11
+Adafruit Feather 32u4 Bluefruit LE
+0603-NO
+
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+0805-NO
+
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+ADAFRUIT_3.5MM
+
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+BLE_MODULE_RAYTAC_MDBT40
+
+
+0
+42
+42
+Adafruit Feather 32u4 Bluefruit LE
+BLUEFRUITLOGO_100MM
+
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+CHIPLED_0805_NOOUTLINE
+
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+FEATHERLOGO
+
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+FIDUCIAL_1MM
+
+
+0
+1
+1
+Adafruit Feather 32u4 Bluefruit LE
+JSTPH2
+2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
+
+0
+4
+4
+Adafruit Feather 32u4 Bluefruit LE
+KMR2
+
+
+0
+4
+4
+Adafruit Feather 32u4 Bluefruit LE
+MOUNTINGHOLE_2.5_PLATED
+
+
+0
+1
+1
+Adafruit Feather 32u4 Bluefruit LE
+PAD-1.5X2.0
+1.5 x 2.0mm SMT pad (no solder paste)
+
+0
+1
+1
+Adafruit Feather 32u4 Bluefruit LE
+PCBFEAT-REV-040
+<b>Revision Level Field</b> - 40 mil<p>
+Set version with global board attribute '>REV'
+
+0
+0
+0
+Adafruit Feather 32u4 Bluefruit LE
+RESONATOR-SMD
+
+
+0
+3
+3
+Adafruit Feather 32u4 Bluefruit LE
+SOD-123
+<b>SOD-123</b>
+<p>Source: http://www.diodes.com/datasheets/ds30139.pdf</p>
+
+0
+2
+2
+Adafruit Feather 32u4 Bluefruit LE
+SOT23-5
+<b>Small Outline Transistor</b> - 5 Pin
+
+0
+5
+5
+Adafruit Feather 32u4 Bluefruit LE
+TQFN44_7MM
+<p><b>Source: </b>http://datasheets.maxim-ic.com/en/ds/MAX9744.pdf</p>
+
+0
+45
+45
+Adafruit Feather 32u4 Bluefruit LE
+_0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Adafruit NeoPixel Ring 12
+1X01-CLEANBIG
+
+
+0
+1
+1
+Adafruit NeoPixel Ring 12
+ADAFRUIT_5MM
+
+
+0
+0
+0
+Adafruit NeoPixel Ring 12
+C0603
+<b>CAPACITOR</b>
+
+0
+2
+2
+Adafruit NeoPixel Ring 12
+GUIDE-STAR-12
+
+
+0
+0
+0
+Adafruit NeoPixel Ring 12
+WS28115050
+
+
+0
+6
+6
+Laptreus v2 Footprints
+0805-NO
+
+
+0
+2
+2
 Laptreus v2 Footprints
 67503
 http://www.tme.eu/pl/Document/af7e127923dc7f74ac659db082bbc882/mx54819.pdf
@@ -70,12 +261,26 @@ HOLE_M3
 1
 1
 Laptreus v2 Footprints
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Laptreus v2 Footprints
 Hybrid_Kailh_MX_Socket_Through_Hole
 
 
 0
 12
 2
+Laptreus v2 Footprints
+isp_standard
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
 Laptreus v2 Footprints
 Kailh_MX_Socket_Through_Hole
 
@@ -105,6 +310,13 @@ PKRHSL
 1
 1
 Laptreus v2 Footprints
+PlateLayout
+
+
+0
+0
+0
+Laptreus v2 Footprints
 switch-hole-dimensions
 
 
@@ -125,3 +337,10 @@ Tactile Switch
 0
 2
 2
+Laptreus v2 Footprints
+USBLC6-2SC6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
