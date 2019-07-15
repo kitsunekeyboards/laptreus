@@ -1,4 +1,4 @@
-76321287634417
+84154615368417
 Adafruit Feather 32u4 Bluefruit LE
 1X12_ROUND
 
@@ -205,6 +205,13 @@ Adafruit Feather 32u4 BLE
 28
 28
 Laptreus v2 Footprints
+Capacitor-0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
+Laptreus v2 Footprints
 case-outside-dimensions
 
 
@@ -216,7 +223,7 @@ Diode-dual
 
 
 0
-10
+6
 2
 Laptreus v2 Footprints
 EG1218
@@ -268,6 +275,13 @@ HRO-TYPE-C-31-M-12
 16
 13
 Laptreus v2 Footprints
+Hybrid_Kailh_MX_Socket
+
+
+0
+5
+2
+Laptreus v2 Footprints
 Hybrid_Kailh_MX_Socket_Through_Hole
 
 
@@ -297,6 +311,20 @@ microswitch tact
 4
 Laptreus v2 Footprints
 PKRH
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRH-Round
+
+
+0
+1
+1
+Laptreus v2 Footprints
+PKRH-Slim
 
 
 0
@@ -344,3 +372,10 @@ SOT-23-6
 0
 6
 6
+Laptreus v2 Footprints
+_0805MP
+<b>0805 MicroPitch</b>
+
+0
+2
+2
