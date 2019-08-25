@@ -1,0 +1,3122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2/Laptreus-v2.sch</source>
+    <date>Wednesday, August 07, 2019 at 08:15:14 AM</date>
+    <tool>Eeschema (6.0.0-rc1-dev-1469-g932b9a334)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Laptreus</title>
+        <company>vosechu</company>
+        <rev>v2.0</rev>
+        <date>2019-01-07</date>
+        <source>Laptreus-v2.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="https://creativecommons.org/licenses/by-sa/4.0/"/>
+        <comment number="3" value="Attribution Share-Alike 4.0 License"/>
+        <comment number="4" value="Released under Creative Commons"/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW11">
+      <value>P</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77BB</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77C1</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>;</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77CE</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77D4</tstamp>
+    </comp>
+    <comp ref="SW35">
+      <value>/</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77E1</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77E7</tstamp>
+    </comp>
+    <comp ref="SW47">
+      <value>UP</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77F4</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>581E77FA</tstamp>
+    </comp>
+    <comp ref="SW_RESET1">
+      <value>SWITCH_PUSH</value>
+      <footprint>Laptreus v2 Footprints:SW_SPST_B3U-1000P</footprint>
+      <fields>
+        <field name="LCSC Part Number">C231329</field>
+        <field name="Manufacturer">Omron Electronics</field>
+        <field name="Manufacturer Part Number">B3U-1000P</field>
+        <field name="Type">SPST Switch</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C348F99</tstamp>
+    </comp>
+    <comp ref="SW_RESET2">
+      <value>SWITCH_PUSH</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C539723</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>O</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D65</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D6B</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>L</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D71</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D77</tstamp>
+    </comp>
+    <comp ref="SW34">
+      <value>.</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D7D</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D83</tstamp>
+    </comp>
+    <comp ref="SW46">
+      <value>DOWN</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D89</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D143D8F</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>I</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D156988</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D15698E</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>K</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D156994</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D15699A</tstamp>
+    </comp>
+    <comp ref="SW33">
+      <value>,</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1569A0</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1569A6</tstamp>
+    </comp>
+    <comp ref="SW45">
+      <value>LEFT</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1569AC</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1569B2</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>U</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C615</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C61B</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>J/RAISE</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C621</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C627</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>M</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C62D</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C633</tstamp>
+    </comp>
+    <comp ref="SW44">
+      <value>SPACE</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C639</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D16C63F</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>Y</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A14</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A1A</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>H</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A20</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A26</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>N</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A2C</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A32</tstamp>
+    </comp>
+    <comp ref="SW43">
+      <value>ENTER/LIFT</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A38</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D185A3E</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>T</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B3FF9</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B3FFF</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>G</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B4005</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B400B</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>B</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B4011</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B4017</tstamp>
+    </comp>
+    <comp ref="SW42">
+      <value>BKSP/LIFT</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B401D</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1B4023</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>R</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDE7D</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDE83</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>F/LOWER</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDE89</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDE8F</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>V</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDE95</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDE9B</tstamp>
+    </comp>
+    <comp ref="SW41">
+      <value>SHIFT</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDEA1</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1BDEA7</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>E</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA752</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA758</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>D</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA75E</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA764</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>C</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA76A</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA770</tstamp>
+    </comp>
+    <comp ref="SW40">
+      <value>CMD</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA776</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1CA77C</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>W</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D875B</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D8761</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>S</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D8767</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D876D</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>X</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D8773</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D8779</tstamp>
+    </comp>
+    <comp ref="SW39">
+      <value>ALT/TAB</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D877F</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1D8785</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>Q</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C75</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C7B</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>A</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C81</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C87</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>Z</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C8D</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C93</tstamp>
+    </comp>
+    <comp ref="SW38">
+      <value>CTRL/GRV</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C99</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D1E9C9F</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101406</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F81003G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>E95677A8262CA06F</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>100K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101406</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F81003G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4E094A17B3CA7E68</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>100K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101406</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F81003G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>EBFEEE43B915E54E</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101405</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F81002G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CD611185D1C5A87C</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77073</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR61A106KE19L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1CD44FBDA56B88C4</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101404</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F81001G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>77FFD22EDE6637A0</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>ORANGE</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE</footprint>
+      <fields>
+        <field name="LCSC Part Number">C192670</field>
+        <field name="Manufacturer">TOGIALED</field>
+        <field name="Manufacturer Part Number">TJ-S2012SW8TGLC0A-A5</field>
+        <field name="Package">0805</field>
+        <field name="Type">LED</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="LED0805_NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C69CE1C881959A1F</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>MCP73831T-2ATI/OT</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:SOT23-5</footprint>
+      <fields>
+        <field name="LCSC Part Number">C14879</field>
+        <field name="Manufacturer">Microchip Tech</field>
+        <field name="Manufacturer Part Number">MCP73831T-2ATI/OT</field>
+        <field name="Package">SOT23-5</field>
+        <field name="Type">Power Management ICs</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="MCP73831_2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>D299DA6CC057CF4F</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>JSTPH</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:JSTPH2</footprint>
+      <fields>
+        <field name="LCSC Part Number">C375128</field>
+        <field name="Manufacturer">CNJM</field>
+        <field name="Manufacturer Part Number">A2001WR-S-2P</field>
+        <field name="Package">JST PH</field>
+        <field name="Type">Connector</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CON_JST_PH_2PIN" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>410CDA6C8CA0D79</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>SWDIO</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:PAD-1.5X2.0</footprint>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="TESTPOINT1.5X2.0MM_NOCREAM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6DD51193D599839A</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>SWDIO</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:PAD-1.5X2.0</footprint>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="TESTPOINT1.5X2.0MM_NOCREAM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8D6ED63640D0ED20</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>SWCLK</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:PAD-1.5X2.0</footprint>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="TESTPOINT1.5X2.0MM_NOCREAM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>24AE87B002DAF868</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77079</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR71C105KA01L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4D1D09D8AEA173E9</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>2.2K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101565</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F82201G</field>
+        <field name="Package">0805</field>
+        <field name="Spice_Model">2.2K</field>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">R</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFFEA4DCBA9FA4B</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>2.2K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <fields>
+        <field name="LCSC Part Number">C101565</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F82201G</field>
+        <field name="Package">0805</field>
+        <field name="Spice_Model">2.2K</field>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">R</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESISTOR_0603_NOOUT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4709FFF250F6919A</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>BLUE</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE</footprint>
+      <fields>
+        <field name="LCSC Part Number">C192320</field>
+        <field name="Manufacturer">TOGIALED</field>
+        <field name="Manufacturer Part Number">TJ-S2012SW8TGLC6B-A5</field>
+        <field name="Package">0805</field>
+        <field name="Type">LED</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="LED0805_NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8F2D142879D2C686</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>RED</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE</footprint>
+      <fields>
+        <field name="LCSC Part Number">C192318</field>
+        <field name="Manufacturer">TOGIALED</field>
+        <field name="Manufacturer Part Number">TJ-S2012SW8TGLC2R-A5</field>
+        <field name="Package">0805</field>
+        <field name="Type">LED</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="LED0805_NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>98E01F633C4DD7E3</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>MBR120</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:SOD-123</footprint>
+      <fields>
+        <field name="LCSC Part Number">C130880</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">MBR120LSF</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Schotky Diode</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="DIODE-SCHOTTKYSOD-123" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>947A3D023F917931</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>SPX3819-3.3</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:SOT23-5</footprint>
+      <fields>
+        <field name="LCSC Part Number">C9055</field>
+        <field name="Manufacturer">Exar</field>
+        <field name="Manufacturer Part Number">SPX3819M5-L-3-3/TR</field>
+        <field name="Package">SOT23-5</field>
+        <field name="Type">LDO</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="VREG_SOT23-5" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4434051B1CE82995</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>8MHz</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:RESONATOR-SMD</footprint>
+      <fields>
+        <field name="LCSC Part Number">C110614</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer Part Number">CSTCE8M00G15C99-R0</field>
+        <field name="Package">SMD-3213-3P</field>
+        <field name="Type">Ceramic Resonator</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="RESONATORSMD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6578987DD92E9582</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77079</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR71C105KA01L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>FBDAB1313BF03373</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>ATMEGA32U4</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <fields>
+        <field name="LCSC Part Number">C44854</field>
+        <field name="Manufacturer">Microchip Tech</field>
+        <field name="Manufacturer Part Number">ATMEGA32U4-AU</field>
+        <field name="Package">TQFP</field>
+        <field name="Type">MCU</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="ATMEGA32U4-MU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C7395AA52B2AC703</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>YELLOW</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:CHIPLED_0805_NOOUTLINE</footprint>
+      <fields>
+        <field name="LCSC Part Number">C192671</field>
+        <field name="Manufacturer">TOGIALED</field>
+        <field name="Manufacturer Part Number">TJ-S2012SW8TGLC9Y-A5</field>
+        <field name="Package">0805</field>
+        <field name="Type">LED</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="LED0805_NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>EE357ACFD711E10D</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77079</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR71C105KA01L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC_0805MP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CEBF5232327C2C18</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77073</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR61A106KE19L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>EA876E43270AF96E</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>1µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77079</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR71C105KA01L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C32F5C2BAB0B070</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10µF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C77073</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GRM21BR61A106KE19L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4BB07D7F1AE2736A</tstamp>
+    </comp>
+    <comp ref="SW_POW_EN1">
+      <value>SW_SPDT</value>
+      <footprint>Laptreus v2 Footprints:EG1218</footprint>
+      <fields>
+        <field name="LCSC Part Number">C273394</field>
+        <field name="Manufacturer">E-Switch</field>
+        <field name="Manufacturer Part Number">EG1218</field>
+        <field name="Package">EG1218</field>
+        <field name="Type">SPDT Switch</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push_SPDT" description="Momentary Switch, single pole double throw"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2E5EE2</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>MDBT40</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:BLE_MODULE_RAYTAC_MDBT40</footprint>
+      <fields>
+        <field name="Manufacturer">Raytac</field>
+        <field name="Manufacturer Part Number">MDBT40</field>
+        <field name="Package">MDBT40</field>
+        <field name="Type">MCU</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="NRF51822_MODULE_MDBT40" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8336D9A9454898C9</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>TAB</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D362246</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D362250</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>ESC</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D36225A</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D362264</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SHIFT</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D36226E</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D362278</tstamp>
+    </comp>
+    <comp ref="SW37">
+      <value>HYPER</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D362282</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D36228C</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>BKSP</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233B5</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233BF</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>"</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233C9</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233D3</tstamp>
+    </comp>
+    <comp ref="SW36">
+      <value>ENTER</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233DD</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233E7</tstamp>
+    </comp>
+    <comp ref="SW48">
+      <value>RIGHT</value>
+      <footprint>Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole_No_Alignment_Pad</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CPG151101S11</field>
+        <field name="Package">PG1511</field>
+        <field name="Type">Socket</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233F1</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>DIODE</value>
+      <footprint>Laptreus v2 Footprints:Diode-dual</footprint>
+      <fields>
+        <field name="Generic Name">1N4148</field>
+        <field name="LCSC Part Number">C109203</field>
+        <field name="Manufacturer">Shikues</field>
+        <field name="Manufacturer Part Number">1N4148W</field>
+        <field name="Package">SOD-123</field>
+        <field name="Type">Diode</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4233FB</tstamp>
+    </comp>
+    <comp ref="SW_POW_EN2">
+      <value>SW_SPDT</value>
+      <footprint>Laptreus v2 Footprints:EG1218</footprint>
+      <fields>
+        <field name="LCSC Part Number">C273394</field>
+        <field name="Manufacturer">E-Switch</field>
+        <field name="Manufacturer Part Number">EG1218</field>
+        <field name="Package">EG1218</field>
+        <field name="Type">SPDT Switch</field>
+      </fields>
+      <libsource lib="Laptreus-v2" part="SW_Push_SPDT" description="Momentary Switch, single pole double throw"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB2772C</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>Laptreus v2 Footprints:HRO-TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="LCSC Part Number">C223906</field>
+        <field name="Manufacturer">Korean Hroparts Elec</field>
+        <field name="Manufacturer Part Number">TYPE-C-31-M-13</field>
+        <field name="Type">Connector</field>
+      </fields>
+      <libsource lib="Laptreus-v2-rescue" part="HRO-TYPE-C-31-M-12-Type-C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2DBB52</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>5.1K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C101769</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F85101G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C314296</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>5.1K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C101769</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F85101G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C31429C</tstamp>
+    </comp>
+    <comp ref="S1">
+      <value>Screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH-Round</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2A7B35</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>Screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2AA553</tstamp>
+    </comp>
+    <comp ref="S4">
+      <value>Screw</value>
+      <footprint>Laptreus v2 Footprints:PKRHSL</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2F0889</tstamp>
+    </comp>
+    <comp ref="S5">
+      <value>Screw</value>
+      <footprint>Laptreus v2 Footprints:PKRHSL</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C313929</tstamp>
+    </comp>
+    <comp ref="S6">
+      <value>Screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C3372C8</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>ISP</value>
+      <footprint>Laptreus v2 Footprints:isp_standard</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CEE94EA</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Generic Name">PPTC Resettable Fuse</field>
+        <field name="LCSC Part Number">C182310</field>
+        <field name="Manufacturer">Shenzhen lanson Elec</field>
+        <field name="Manufacturer Part Number">12H1200C</field>
+        <field name="Package">SMD1206</field>
+        <field name="Type">Polyfuse</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2C8A40</tstamp>
+    </comp>
+    <comp ref="S8">
+      <value>Tofu screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5EA78C</tstamp>
+    </comp>
+    <comp ref="S9">
+      <value>Tofu screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C610563</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>22</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C101576</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F822R0G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E2BF1F7</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>22</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C101576</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F822R0G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E2BF1FD</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>USBLC6-2SC6</value>
+      <footprint>Laptreus v2 Footprints:USBLC6-2SC6</footprint>
+      <fields>
+        <field name="Farnell">1295310</field>
+        <field name="LCSC Part Number">C7519</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+        <field name="Manufacturer Part Number">USBLC6-2SC6</field>
+        <field name="Package">SOT23-6</field>
+        <field name="Type">ESD Diodes</field>
+      </fields>
+      <libsource lib="Laptreus-v2-rescue" part="USBLC6-2SC6-keyboard_parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E2BF21D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>1K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C101404</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F81001G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C2AA91A</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>Laptreus v2 Footprints:Capacitor-0805MP</footprint>
+      <fields>
+        <field name="LCSC Part Number">C85866</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="Manufacturer Part Number">GCM21BR72A104KA37L</field>
+        <field name="Package">0805</field>
+        <field name="Type">Capacitor</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CAP_CERAMIC_0805MP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D34074F</tstamp>
+    </comp>
+    <comp ref="S7">
+      <value>Tofu screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C59E1CB</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>2.2K</value>
+      <footprint>Laptreus v2 Footprints:0805-NO</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part Number">C101565</field>
+        <field name="Manufacturer">LIZ Elec</field>
+        <field name="Manufacturer Part Number">CR0805F82201G</field>
+        <field name="Package">0805</field>
+        <field name="Type">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6415016D</tstamp>
+    </comp>
+    <comp ref="S3">
+      <value>Screw</value>
+      <footprint>Laptreus v2 Footprints:PKRH</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Type">Screwhole</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>647754D9</tstamp>
+    </comp>
+    <comp ref="X2">
+      <value>JSTPH</value>
+      <footprint>Adafruit Feather 32u4 Bluefruit LE:JSTPH2</footprint>
+      <fields>
+        <field name="LCSC Part Number">C375128</field>
+        <field name="Manufacturer">CNJM</field>
+        <field name="Manufacturer Part Number">A2001WR-S-2P</field>
+        <field name="Package">JST PH</field>
+        <field name="Type">Connector</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="CON_JST_PH_2PIN" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D4770A4</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>PINHD-1X1CB</value>
+      <footprint>Adafruit NeoPixel Ring 12:1X01-CLEANBIG</footprint>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="PINHD-1X1CB" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8813A7</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>PINHD-1X1CB</value>
+      <footprint>Adafruit NeoPixel Ring 12:1X01-CLEANBIG</footprint>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="PINHD-1X1CB" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D93FC1A</tstamp>
+    </comp>
+    <comp ref="JP3">
+      <value>PINHD-1X1CB</value>
+      <footprint>Adafruit NeoPixel Ring 12:1X01-CLEANBIG</footprint>
+      <fields>
+        <field name="Type">Pin</field>
+      </fields>
+      <libsource lib="Adafruit-parts" part="PINHD-1X1CB" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D941870</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Adafruit-parts" part="CAP_CERAMIC0805-NOOUTLINE">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_CERAMIC0805-NOOUTLINE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="CAP_CERAMIC_0805MP">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_CERAMIC_0805MP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="CON_JST_PH_2PIN">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">CON_JST_PH_2PIN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="DIODE-SCHOTTKYSOD-123">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE-SCHOTTKYSOD-123</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="LED0805_NOOUTLINE">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED0805_NOOUTLINE</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="MCP73831_2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73831_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="STAT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VBAT" type="power_in"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="PROG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="NRF51822_MODULE_MDBT40">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NRF51822_MODULE_MDBT40</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND@1" type="power_in"/>
+        <pin num="2" name="GND@2" type="power_in"/>
+        <pin num="3" name="AVDD" type="power_in"/>
+        <pin num="4" name="P0.21" type="BiDi"/>
+        <pin num="5" name="P0.22" type="BiDi"/>
+        <pin num="6" name="P0.23" type="BiDi"/>
+        <pin num="7" name="P0.24" type="BiDi"/>
+        <pin num="8" name="P0.25" type="BiDi"/>
+        <pin num="9" name="P0.26/AIN0/XL2" type="BiDi"/>
+        <pin num="10" name="P0.27/AIN1/XL1" type="BiDi"/>
+        <pin num="11" name="P0.28" type="BiDi"/>
+        <pin num="12" name="P0.29" type="BiDi"/>
+        <pin num="13" name="GND@3" type="power_in"/>
+        <pin num="14" name="VDD" type="power_in"/>
+        <pin num="15" name="DCC" type="power_in"/>
+        <pin num="16" name="P0.30" type="BiDi"/>
+        <pin num="17" name="P0.00/AREF0" type="BiDi"/>
+        <pin num="18" name="P0.01/AIN2" type="BiDi"/>
+        <pin num="19" name="P0.02/AIN3" type="BiDi"/>
+        <pin num="20" name="P0.03/AIN4" type="BiDi"/>
+        <pin num="21" name="P0.04/AIN5" type="BiDi"/>
+        <pin num="22" name="P0.05/AIN6" type="BiDi"/>
+        <pin num="23" name="P0.06/AIN7/AREF1" type="BiDi"/>
+        <pin num="24" name="P0.07" type="BiDi"/>
+        <pin num="25" name="GND@4" type="BiDi"/>
+        <pin num="26" name="P0.08" type="BiDi"/>
+        <pin num="27" name="P0.09" type="BiDi"/>
+        <pin num="28" name="P0.10" type="BiDi"/>
+        <pin num="29" name="P0.11" type="BiDi"/>
+        <pin num="30" name="P0.12" type="BiDi"/>
+        <pin num="31" name="P0.13" type="BiDi"/>
+        <pin num="32" name="P0.14" type="BiDi"/>
+        <pin num="33" name="P0.15" type="BiDi"/>
+        <pin num="34" name="P0.16" type="BiDi"/>
+        <pin num="35" name="SWDIO/NRESET" type="BiDi"/>
+        <pin num="36" name="SWCLK" type="BiDi"/>
+        <pin num="37" name="P0.17" type="BiDi"/>
+        <pin num="38" name="P0.18" type="BiDi"/>
+        <pin num="39" name="P0.19" type="BiDi"/>
+        <pin num="40" name="P0.20" type="BiDi"/>
+        <pin num="41" name="DEC2" type="power_in"/>
+        <pin num="42" name="GND@5" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="PINHD-1X1CB">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">PINHD-1X1CB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="RESISTOR_0603_NOOUT">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RESISTOR_0603_NOOUT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="RESONATORSMD">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">RESONATORSMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="TESTPOINT1.5X2.0MM_NOCREAM">
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TESTPOINT1.5X2.0MM_NOCREAM</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="P$1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Adafruit-parts" part="VREG_SOT23-5">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">VREG_SOT23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="P4" type="unspc"/>
+        <pin num="5" name="OUT" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x01">
+      <description>Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <aliases>
+        <alias>1N4448</alias>
+        <alias>1N4149</alias>
+        <alias>1N4151</alias>
+        <alias>1N914</alias>
+        <alias>BA243</alias>
+        <alias>BA244</alias>
+        <alias>BA282</alias>
+        <alias>BA283</alias>
+        <alias>BAV17</alias>
+        <alias>BAV18</alias>
+        <alias>BAV19</alias>
+        <alias>BAV20</alias>
+        <alias>BAV21</alias>
+        <alias>BAW75</alias>
+        <alias>BAW76</alias>
+        <alias>BAY93</alias>
+      </aliases>
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Laptreus-v2" part="ATMEGA32U4-MU">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ATMEGA32U4-MU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6(INT.6/AIN0)" type="BiDi"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="BiDi"/>
+        <pin num="4" name="D+" type="BiDi"/>
+        <pin num="5" name="UGND" type="power_in"/>
+        <pin num="6" name="UCAP" type="BiDi"/>
+        <pin num="7" name="VBUS" type="power_in"/>
+        <pin num="8" name="PB0(SS)" type="BiDi"/>
+        <pin num="9" name="PB1(SCK)" type="BiDi"/>
+        <pin num="10" name="PB2(PDI/MOSI)" type="BiDi"/>
+        <pin num="11" name="PB3(PDO/MISO)" type="BiDi"/>
+        <pin num="12" name="PB7(OC0A/OC1C/RTS)" type="BiDi"/>
+        <pin num="13" name="/RESET" type="BiDi"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="BiDi"/>
+        <pin num="17" name="XTAL1" type="BiDi"/>
+        <pin num="18" name="PD0(INT0/OC0B/SCL)" type="BiDi"/>
+        <pin num="19" name="PD1(INT1/SDA)" type="BiDi"/>
+        <pin num="20" name="PD2(INT2/RXD1)" type="BiDi"/>
+        <pin num="21" name="PD3(INT3/TXD1)" type="BiDi"/>
+        <pin num="22" name="PD5(XCK/CTS)" type="BiDi"/>
+        <pin num="23" name="GND1" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4(ICP1/ADC8)" type="BiDi"/>
+        <pin num="26" name="PD6(T1/ADC9/~OC4D)" type="BiDi"/>
+        <pin num="27" name="PD7(OC4D/ADC10/T0)" type="BiDi"/>
+        <pin num="28" name="PB4(ADC11)" type="BiDi"/>
+        <pin num="29" name="PB5(OC1A/ADC12/~OC4B)" type="BiDi"/>
+        <pin num="30" name="PB6(OC1B/OC4B/ADC13)" type="BiDi"/>
+        <pin num="31" name="PC6(OC3A/~OC4A)" type="BiDi"/>
+        <pin num="32" name="PC7(ICP3/CLK0/OC4A)" type="BiDi"/>
+        <pin num="33" name="PE2(~HWB)" type="BiDi"/>
+        <pin num="34" name="VCC1" type="power_in"/>
+        <pin num="35" name="GND2" type="power_in"/>
+        <pin num="36" name="PF7(ADC7(TDI)" type="BiDi"/>
+        <pin num="37" name="PF6(ADC6/TDO)" type="BiDi"/>
+        <pin num="38" name="PF5(ADC5/TMS)" type="BiDi"/>
+        <pin num="39" name="PF4(ADC4/TCK)" type="BiDi"/>
+        <pin num="40" name="PF1(ADC1)" type="BiDi"/>
+        <pin num="41" name="PF0(ADC0)" type="BiDi"/>
+        <pin num="42" name="AREF" type="BiDi"/>
+        <pin num="43" name="GND3" type="power_in"/>
+        <pin num="44" name="AVCC1" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Laptreus-v2" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Laptreus-v2" part="SW_Push_SPDT">
+      <description>Momentary Switch, single pole double throw</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_SPDT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Laptreus-v2-rescue" part="HRO-TYPE-C-31-M-12-Type-C">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12-Type-C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Laptreus-v2-rescue" part="USBLC6-2SC6-keyboard_parts">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">USBLC6-2SC6-keyboard_parts</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="power_in"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Adafruit-parts">
+      <uri>/Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2/Adafruit-parts.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Library/Application Support/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Library/Application Support/kicad/library/Diode.lib</uri>
+    </library>
+    <library logical="Laptreus-v2">
+      <uri>/Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2/Laptreus-v2.lib</uri>
+    </library>
+    <library logical="Laptreus-v2-rescue">
+      <uri>/Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2/Laptreus-v2-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D11-Pad1)">
+      <node ref="SW11" pin="2"/>
+      <node ref="D11" pin="1"/>
+    </net>
+    <net code="2" name="Net-(D23-Pad1)">
+      <node ref="SW23" pin="2"/>
+      <node ref="D23" pin="1"/>
+    </net>
+    <net code="3" name="Net-(D35-Pad1)">
+      <node ref="SW35" pin="2"/>
+      <node ref="D35" pin="1"/>
+    </net>
+    <net code="4" name="Net-(D47-Pad1)">
+      <node ref="SW47" pin="2"/>
+      <node ref="D47" pin="1"/>
+    </net>
+    <net code="5" name="/COL1">
+      <node ref="D47" pin="2"/>
+      <node ref="IC1" pin="21"/>
+      <node ref="D35" pin="2"/>
+      <node ref="D23" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="L3" pin="C"/>
+      <node ref="L2" pin="C"/>
+      <node ref="SW_RESET1" pin="2"/>
+      <node ref="SW_RESET2" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="IC1" pin="35"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="IC1" pin="23"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="IC1" pin="15"/>
+      <node ref="JP2" pin="1"/>
+      <node ref="IC1" pin="43"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="X2" pin="1"/>
+      <node ref="X1" pin="1"/>
+      <node ref="L1" pin="C"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="S3" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="SW_POW_EN1" pin="1"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U3" pin="13"/>
+      <node ref="U3" pin="16"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U3" pin="25"/>
+      <node ref="U3" pin="42"/>
+      <node ref="SW_POW_EN2" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J1" pin="12"/>
+      <node ref="J1" pin="13"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R11" pin="2"/>
+      <node ref="S7" pin="1"/>
+      <node ref="S1" pin="1"/>
+      <node ref="S2" pin="1"/>
+      <node ref="S4" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="S5" pin="1"/>
+      <node ref="U6" pin="2"/>
+      <node ref="S6" pin="1"/>
+      <node ref="J2" pin="6"/>
+      <node ref="S8" pin="1"/>
+      <node ref="S9" pin="1"/>
+    </net>
+    <net code="7" name="/RESET">
+      <node ref="IC1" pin="13"/>
+      <node ref="SW_RESET2" pin="1"/>
+      <node ref="SW_RESET1" pin="1"/>
+    </net>
+    <net code="8" name="/COL2">
+      <node ref="D46" pin="2"/>
+      <node ref="D34" pin="2"/>
+      <node ref="D22" pin="2"/>
+      <node ref="IC1" pin="20"/>
+      <node ref="D10" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D10-Pad1)">
+      <node ref="SW10" pin="2"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="10" name="Net-(D22-Pad1)">
+      <node ref="SW22" pin="2"/>
+      <node ref="D22" pin="1"/>
+    </net>
+    <net code="11" name="Net-(D34-Pad1)">
+      <node ref="D34" pin="1"/>
+      <node ref="SW34" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D46-Pad1)">
+      <node ref="D46" pin="1"/>
+      <node ref="SW46" pin="2"/>
+    </net>
+    <net code="13" name="/COL3">
+      <node ref="D45" pin="2"/>
+      <node ref="D9" pin="2"/>
+      <node ref="D33" pin="2"/>
+      <node ref="IC1" pin="19"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D9-Pad1)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="15" name="Net-(D21-Pad1)">
+      <node ref="D21" pin="1"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D33-Pad1)">
+      <node ref="SW33" pin="2"/>
+      <node ref="D33" pin="1"/>
+    </net>
+    <net code="17" name="Net-(D45-Pad1)">
+      <node ref="D45" pin="1"/>
+      <node ref="SW45" pin="2"/>
+    </net>
+    <net code="18" name="/COL4">
+      <node ref="D44" pin="2"/>
+      <node ref="IC1" pin="18"/>
+      <node ref="D32" pin="2"/>
+      <node ref="D20" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1"/>
+      <node ref="SW8" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D32-Pad1)">
+      <node ref="D32" pin="1"/>
+      <node ref="SW32" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D44-Pad1)">
+      <node ref="D44" pin="1"/>
+      <node ref="SW44" pin="2"/>
+    </net>
+    <net code="23" name="/COL5">
+      <node ref="D43" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="IC1" pin="25"/>
+      <node ref="D19" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1"/>
+      <node ref="SW7" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D19-Pad1)">
+      <node ref="SW19" pin="2"/>
+      <node ref="D19" pin="1"/>
+    </net>
+    <net code="26" name="Net-(D31-Pad1)">
+      <node ref="D31" pin="1"/>
+      <node ref="SW31" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D43-Pad1)">
+      <node ref="SW43" pin="2"/>
+      <node ref="D43" pin="1"/>
+    </net>
+    <net code="28" name="/COL6">
+      <node ref="D42" pin="2"/>
+      <node ref="D30" pin="2"/>
+      <node ref="D18" pin="2"/>
+      <node ref="IC1" pin="41"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D30-Pad1)">
+      <node ref="SW30" pin="2"/>
+      <node ref="D30" pin="1"/>
+    </net>
+    <net code="32" name="Net-(D42-Pad1)">
+      <node ref="D42" pin="1"/>
+      <node ref="SW42" pin="2"/>
+    </net>
+    <net code="33" name="/COL7">
+      <node ref="IC1" pin="40"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D17" pin="2"/>
+      <node ref="D29" pin="2"/>
+      <node ref="D41" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1"/>
+      <node ref="SW5" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1"/>
+      <node ref="SW17" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D29-Pad1)">
+      <node ref="D29" pin="1"/>
+      <node ref="SW29" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D41-Pad1)">
+      <node ref="D41" pin="1"/>
+      <node ref="SW41" pin="2"/>
+    </net>
+    <net code="38" name="/COL8">
+      <node ref="D16" pin="2"/>
+      <node ref="D28" pin="2"/>
+      <node ref="D40" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="IC1" pin="39"/>
+    </net>
+    <net code="39" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1"/>
+      <node ref="SW16" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D28-Pad1)">
+      <node ref="SW28" pin="2"/>
+      <node ref="D28" pin="1"/>
+    </net>
+    <net code="42" name="Net-(D40-Pad1)">
+      <node ref="SW40" pin="2"/>
+      <node ref="D40" pin="1"/>
+    </net>
+    <net code="43" name="/COL9">
+      <node ref="D15" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="IC1" pin="38"/>
+      <node ref="D27" pin="2"/>
+      <node ref="D39" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D3-Pad1)">
+      <node ref="SW3" pin="2"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="45" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D27-Pad1)">
+      <node ref="D27" pin="1"/>
+      <node ref="SW27" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D39-Pad1)">
+      <node ref="D39" pin="1"/>
+      <node ref="SW39" pin="2"/>
+    </net>
+    <net code="48" name="/COL10">
+      <node ref="D14" pin="2"/>
+      <node ref="D26" pin="2"/>
+      <node ref="D38" pin="2"/>
+      <node ref="IC1" pin="37"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D2-Pad1)">
+      <node ref="SW2" pin="2"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="50" name="Net-(D14-Pad1)">
+      <node ref="SW14" pin="2"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="51" name="Net-(D26-Pad1)">
+      <node ref="SW26" pin="2"/>
+      <node ref="D26" pin="1"/>
+    </net>
+    <net code="52" name="Net-(D38-Pad1)">
+      <node ref="D38" pin="1"/>
+      <node ref="SW38" pin="2"/>
+    </net>
+    <net code="53" name="/CHARGE">
+      <node ref="R1" pin="2"/>
+      <node ref="L4" pin="A"/>
+    </net>
+    <net code="54" name="Net-(L4-PadC)">
+      <node ref="L4" pin="C"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="55" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="56" name="/CONNECTED">
+      <node ref="U3" pin="39"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="57" name="/MODE">
+      <node ref="R6" pin="1"/>
+      <node ref="U3" pin="38"/>
+    </net>
+    <net code="58" name="Net-(L3-PadA)">
+      <node ref="L3" pin="A"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="59" name="Net-(L2-PadA)">
+      <node ref="L2" pin="A"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="60" name="+3.7VBAT">
+      <node ref="X2" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="D49" pin="A"/>
+      <node ref="X1" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="61" name="/EN">
+      <node ref="U2" pin="3"/>
+      <node ref="R2" pin="2"/>
+      <node ref="SW_POW_EN1" pin="2"/>
+      <node ref="SW_POW_EN2" pin="2"/>
+    </net>
+    <net code="62" name="Net-(U2-Pad4)">
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="63" name="Net-(IC1-Pad17)">
+      <node ref="IC1" pin="17"/>
+      <node ref="Y1" pin="1"/>
+    </net>
+    <net code="64" name="Net-(IC1-Pad16)">
+      <node ref="IC1" pin="16"/>
+      <node ref="Y1" pin="3"/>
+    </net>
+    <net code="65" name="+5V">
+      <node ref="F1" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="D49" pin="C"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="66" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="IC1" pin="42"/>
+    </net>
+    <net code="67" name="+3V3">
+      <node ref="IC1" pin="24"/>
+      <node ref="U3" pin="14"/>
+      <node ref="IC1" pin="6"/>
+      <node ref="C3" pin="1"/>
+      <node ref="J2" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="IC1" pin="44"/>
+      <node ref="C7" pin="1"/>
+      <node ref="JP3" pin="1"/>
+      <node ref="IC1" pin="34"/>
+      <node ref="U2" pin="5"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U3" pin="3"/>
+      <node ref="IC1" pin="14"/>
+    </net>
+    <net code="68" name="/9">
+      <node ref="R4" pin="2"/>
+      <node ref="IC1" pin="29"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="69" name="/FCTRYRST">
+      <node ref="U3" pin="34"/>
+      <node ref="TP3" pin="P$1"/>
+    </net>
+    <net code="70" name="DFU">
+      <node ref="U3" pin="24"/>
+    </net>
+    <net code="71" name="/4_SWDIO/RST">
+      <node ref="U3" pin="35"/>
+      <node ref="TP2" pin="P$1"/>
+    </net>
+    <net code="72" name="/SWCLK">
+      <node ref="TP1" pin="P$1"/>
+      <node ref="U3" pin="36"/>
+    </net>
+    <net code="73" name="/7_BLE_IRQ">
+      <node ref="IC1" pin="1"/>
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="74" name="/8_BLE_CS">
+      <node ref="U3" pin="7"/>
+      <node ref="IC1" pin="28"/>
+    </net>
+    <net code="75" name="SCK">
+      <node ref="J2" pin="3"/>
+      <node ref="U3" pin="4"/>
+      <node ref="IC1" pin="9"/>
+    </net>
+    <net code="76" name="MISO">
+      <node ref="U3" pin="5"/>
+      <node ref="IC1" pin="11"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="77" name="MOSI">
+      <node ref="J2" pin="4"/>
+      <node ref="U3" pin="6"/>
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="78" name="Net-(SW_POW_EN1-Pad3)">
+      <node ref="SW_POW_EN1" pin="3"/>
+    </net>
+    <net code="79" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="80" name="Net-(U3-Pad11)">
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="81" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="82" name="DCC">
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="83" name="Net-(U3-Pad17)">
+      <node ref="U3" pin="17"/>
+    </net>
+    <net code="84" name="Net-(U3-Pad18)">
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="85" name="Net-(U3-Pad19)">
+      <node ref="U3" pin="19"/>
+    </net>
+    <net code="86" name="Net-(U3-Pad20)">
+      <node ref="U3" pin="20"/>
+    </net>
+    <net code="87" name="Net-(U3-Pad21)">
+      <node ref="U3" pin="21"/>
+    </net>
+    <net code="88" name="Net-(U3-Pad22)">
+      <node ref="U3" pin="22"/>
+    </net>
+    <net code="89" name="Net-(U3-Pad23)">
+      <node ref="U3" pin="23"/>
+    </net>
+    <net code="90" name="Net-(U3-Pad26)">
+      <node ref="U3" pin="26"/>
+    </net>
+    <net code="91" name="Net-(U3-Pad27)">
+      <node ref="U3" pin="27"/>
+    </net>
+    <net code="92" name="Net-(U3-Pad28)">
+      <node ref="U3" pin="28"/>
+    </net>
+    <net code="93" name="Net-(U3-Pad29)">
+      <node ref="U3" pin="29"/>
+    </net>
+    <net code="94" name="Net-(U3-Pad30)">
+      <node ref="U3" pin="30"/>
+    </net>
+    <net code="95" name="Net-(U3-Pad31)">
+      <node ref="U3" pin="31"/>
+    </net>
+    <net code="96" name="Net-(U3-Pad32)">
+      <node ref="U3" pin="32"/>
+    </net>
+    <net code="97" name="Net-(U3-Pad33)">
+      <node ref="U3" pin="33"/>
+    </net>
+    <net code="98" name="Net-(U3-Pad37)">
+      <node ref="U3" pin="37"/>
+    </net>
+    <net code="99" name="Net-(U3-Pad40)">
+      <node ref="U3" pin="40"/>
+    </net>
+    <net code="100" name="DEC2">
+      <node ref="U3" pin="41"/>
+    </net>
+    <net code="101" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="102" name="/ROW0">
+      <node ref="SW9" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="IC1" pin="26"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW6" pin="1"/>
+    </net>
+    <net code="103" name="/ROW1">
+      <node ref="SW23" pin="1"/>
+      <node ref="IC1" pin="27"/>
+      <node ref="SW13" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="SW16" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="SW17" pin="1"/>
+      <node ref="SW18" pin="1"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW19" pin="1"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW24" pin="1"/>
+    </net>
+    <net code="104" name="/ROW2">
+      <node ref="SW27" pin="1"/>
+      <node ref="SW36" pin="1"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="IC1" pin="30"/>
+      <node ref="SW26" pin="1"/>
+      <node ref="SW31" pin="1"/>
+      <node ref="SW25" pin="1"/>
+      <node ref="SW35" pin="1"/>
+      <node ref="SW34" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW29" pin="1"/>
+      <node ref="SW30" pin="1"/>
+      <node ref="SW33" pin="1"/>
+    </net>
+    <net code="105" name="/ROW3">
+      <node ref="SW42" pin="1"/>
+      <node ref="SW45" pin="1"/>
+      <node ref="SW41" pin="1"/>
+      <node ref="SW46" pin="1"/>
+      <node ref="SW40" pin="1"/>
+      <node ref="SW37" pin="1"/>
+      <node ref="SW47" pin="1"/>
+      <node ref="SW43" pin="1"/>
+      <node ref="SW38" pin="1"/>
+      <node ref="SW48" pin="1"/>
+      <node ref="IC1" pin="31"/>
+      <node ref="SW44" pin="1"/>
+      <node ref="SW39" pin="1"/>
+    </net>
+    <net code="106" name="/COL11">
+      <node ref="D37" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="IC1" pin="36"/>
+      <node ref="D25" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="107" name="Net-(D1-Pad1)">
+      <node ref="SW1" pin="2"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="108" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1"/>
+      <node ref="SW13" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D25-Pad1)">
+      <node ref="SW25" pin="2"/>
+      <node ref="D25" pin="1"/>
+    </net>
+    <net code="110" name="Net-(D37-Pad1)">
+      <node ref="D37" pin="1"/>
+      <node ref="SW37" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="112" name="Net-(D24-Pad1)">
+      <node ref="SW24" pin="2"/>
+      <node ref="D24" pin="1"/>
+    </net>
+    <net code="113" name="Net-(D36-Pad1)">
+      <node ref="SW36" pin="2"/>
+      <node ref="D36" pin="1"/>
+    </net>
+    <net code="114" name="Net-(D48-Pad1)">
+      <node ref="D48" pin="1"/>
+      <node ref="SW48" pin="2"/>
+    </net>
+    <net code="115" name="/COL0">
+      <node ref="IC1" pin="22"/>
+      <node ref="D12" pin="2"/>
+      <node ref="D24" pin="2"/>
+      <node ref="D36" pin="2"/>
+      <node ref="D48" pin="2"/>
+    </net>
+    <net code="116" name="Net-(SW_POW_EN2-Pad3)">
+      <node ref="SW_POW_EN2" pin="3"/>
+    </net>
+    <net code="117" name="Net-(J1-Pad10)">
+      <node ref="R11" pin="1"/>
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="118" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="119" name="Net-(J1-Pad9)">
+      <node ref="J1" pin="9"/>
+    </net>
+    <net code="120" name="Net-(J1-Pad4)">
+      <node ref="R12" pin="2"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="121" name="D+">
+      <node ref="U6" pin="1"/>
+      <node ref="J1" pin="6"/>
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="122" name="D-">
+      <node ref="U6" pin="3"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="123" name="RST">
+      <node ref="J2" pin="5"/>
+      <node ref="IC1" pin="8"/>
+    </net>
+    <net code="124" name="Net-(IC1-Pad4)">
+      <node ref="IC1" pin="4"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="125" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="126" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="127" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="128" name="/HWB">
+      <node ref="IC1" pin="33"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="129" name="+5VRAW">
+      <node ref="C20" pin="2"/>
+      <node ref="U6" pin="5"/>
+      <node ref="J1" pin="11"/>
+      <node ref="J1" pin="2"/>
+      <node ref="F1" pin="2"/>
+    </net>
+    <net code="130" name="Net-(L1-PadA)">
+      <node ref="R13" pin="1"/>
+      <node ref="L1" pin="A"/>
+    </net>
+    <net code="131" name="/13">
+      <node ref="R13" pin="2"/>
+      <node ref="IC1" pin="32"/>
+    </net>
+    <net code="132" name="/LED_STRIP_IN">
+      <node ref="JP1" pin="1"/>
+      <node ref="IC1" pin="12"/>
+    </net>
+  </nets>
+</export>

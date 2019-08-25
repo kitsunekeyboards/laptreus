@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Laptreus-v1-rescue)(type Legacy)(uri "/Users/vosechu/Dropbox/Life/After hours projects/Personal Projects/Keyboards/keyboard_pcb_stuff/Laptreus-v1/Laptreus-v1-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name Laptreus-v2)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2.lib)(options "")(descr ""))
+  (lib (name Laptreus-v2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2-eagle-import.lib)(options "")(descr "")(disabled))
+  (lib (name Adafruit-parts)(type Legacy)(uri ${KIPRJMOD}/Adafruit-parts.lib)(options "")(descr ""))
+  (lib (name Laptreus-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/Laptreus-v2-rescue.lib)(options "")(descr ""))
+)

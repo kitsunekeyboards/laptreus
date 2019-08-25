@@ -1,0 +1,891 @@
+Cmp-Mod V01 Created by PcbNew   date = Friday, June 21, 2019 at 08:32:40 AM
+
+BeginCmp
+TimeStamp = 5C3B3D9C
+Path = /5CF3098F
+Reference = SW48;
+ValeurCmp = RIGHT;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B33B4
+Path = /5CF30996
+Reference = D48;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3CD4
+Path = /5D16C639
+Reference = SW44;
+ValeurCmp = ENTER/LIFT;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3CA2
+Path = /5D185A38
+Reference = SW43;
+ValeurCmp = SPACE;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3C70
+Path = /5D1B401D
+Reference = SW42;
+ValeurCmp = SHIFT;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3C0C
+Path = /5D1CA776
+Reference = SW40;
+ValeurCmp = CMD;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3BDA
+Path = /5D1D877F
+Reference = SW39;
+ValeurCmp = ALT/TAB;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3B12
+Path = /581E77E1
+Reference = SW35;
+ValeurCmp = /;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3A7C
+Path = /5D16C62D
+Reference = SW32;
+ValeurCmp = M;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3A4A
+Path = /5D185A2C
+Reference = SW31;
+ValeurCmp = N;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3982
+Path = /5D1D8773
+Reference = SW27;
+ValeurCmp = X;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3950
+Path = /5D1E9C8D
+Reference = SW26;
+ValeurCmp = Z;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B391E
+Path = /5CF309C7
+Reference = SW25;
+ValeurCmp = SHIFT;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3888
+Path = /5D143D71
+Reference = SW22;
+ValeurCmp = L;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3824
+Path = /5D16C621
+Reference = SW20;
+ValeurCmp = J/RAISE;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B37C0
+Path = /5D1B4005
+Reference = SW18;
+ValeurCmp = G;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B378E
+Path = /5D1BDE89
+Reference = SW17;
+ValeurCmp = F/LOWER;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B372A
+Path = /5D1D8767
+Reference = SW15;
+ValeurCmp = S;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B36C6
+Path = /5CF309D5
+Reference = SW13;
+ValeurCmp = ESC;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B359A
+Path = /5D185A14
+Reference = SW7;
+ValeurCmp = Y;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3536
+Path = /5D1BDE7D
+Reference = SW5;
+ValeurCmp = R;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B346E
+Path = /5CF309E3
+Reference = SW1;
+ValeurCmp = TAB;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3C3E
+Path = /5D1BDEA1
+Reference = SW41;
+ValeurCmp = BKSP/LIFT;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3BA8
+Path = /5D1E9C99
+Reference = SW38;
+ValeurCmp = CTRL/GRV;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3B76
+Path = /5CF309B9
+Reference = SW37;
+ValeurCmp = HYPER;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3AE0
+Path = /5D143D7D
+Reference = SW34;
+ValeurCmp = .;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3AAE
+Path = /5D1569A0
+Reference = SW33;
+ValeurCmp = ,;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3A18
+Path = /5D1B4011
+Reference = SW30;
+ValeurCmp = B;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B39E6
+Path = /5D1BDE95
+Reference = SW29;
+ValeurCmp = V;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B39B4
+Path = /5D1CA76A
+Reference = SW28;
+ValeurCmp = C;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B38BA
+Path = /581E77CE
+Reference = SW23;
+ValeurCmp = ;;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3856
+Path = /5D156994
+Reference = SW21;
+ValeurCmp = K;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B37F2
+Path = /5D185A20
+Reference = SW19;
+ValeurCmp = H;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B375C
+Path = /5D1CA75E
+Reference = SW16;
+ValeurCmp = D;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B36F8
+Path = /5D1E9C81
+Reference = SW14;
+ValeurCmp = A;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3662
+Path = /581E77BB
+Reference = SW11;
+ValeurCmp = P;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3568
+Path = /5D1B3FF9
+Reference = SW6;
+ValeurCmp = T;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3504
+Path = /5D1CA752
+Reference = SW4;
+ValeurCmp = E;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C057
+Path = /4F08252F
+Reference = J1;
+ValeurCmp = MINI;
+IdModule  = usb:67503;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C06A
+Path = switch_mx3
+Reference = HOLE;
+ValeurCmp = VAL**;
+IdModule  = hole:PKRHSL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C06E
+Path = switch_mx3
+Reference = HOLE;
+ValeurCmp = VAL**;
+IdModule  = hole:PKRHSL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C072
+Path = 
+Reference = FID;
+ValeurCmp = FIDUCIAL;
+IdModule  = hole:FIDUCIAL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C076
+Path = /50440A9A
+Reference = S0;
+ValeurCmp = DTSM-6;
+IdModule  = dtsm:KSEM31GLFS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C5B4
+Path = switch_mx3
+Reference = HOLE;
+ValeurCmp = VAL**;
+IdModule  = hole:PKRHC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C5B8
+Path = 
+Reference = FID;
+ValeurCmp = FIDUCIAL;
+IdModule  = hole:FIDUCIAL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C70F
+Path = switch_mx3
+Reference = HOLE;
+ValeurCmp = VAL**;
+IdModule  = hole:PKRH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C713
+Path = switch_mx3
+Reference = HOLE;
+ValeurCmp = VAL**;
+IdModule  = hole:PKRH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07C717
+Path = switch_mx3
+Reference = HOLE;
+ValeurCmp = VAL**;
+IdModule  = hole:PKRH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07CD43
+Path = /4ED6A3B8
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = 0805:0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D07CD4E
+Path = /4ED6A3B0
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = 0805:0805R;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3E24
+Path = /5C2E5EE2
+Reference = SW_POW_EN1;
+ValeurCmp = SW_SPDT;
+IdModule  = Laptreus v2 Footprints:EG1218;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3D290D
+Path = 
+Reference = U1;
+ValeurCmp = AdafruitFeather32u4BLE;
+IdModule  = Laptreus v2 Footprints:Adafruit Feather 32u4 BLE;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2FB8
+Path = /5D1B400B
+Reference = D18;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2F96
+Path = /5D1BDE8F
+Reference = D17;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3630
+Path = /5D143D65
+Reference = SW10;
+ValeurCmp = O;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3E00
+Path = /5D94712C
+Reference = SW50;
+ValeurCmp = SPECIAL;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3D6A
+Path = /581E77F4
+Reference = SW47;
+ValeurCmp = UP;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3E3A
+Path = /5C348F99
+Reference = SW_RESET1;
+ValeurCmp = SWITCH_PUSH;
+IdModule  = Laptreus v2 Footprints:SW_SPST_B3U-1000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B343C
+Path = /5C20E058
+Reference = J2;
+ValeurCmp = Conn_01x12;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B341C
+Path = /5C201939
+Reference = J1;
+ValeurCmp = Conn_01x16;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B330A
+Path = /5D185A3E
+Reference = D43;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B31FA
+Path = /581E77E7
+Reference = D35;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3062
+Path = /581E77D4
+Reference = D23;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B35FE
+Path = /5D156988
+Reference = SW9;
+ValeurCmp = I;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B35CC
+Path = /5D16C615
+Reference = SW8;
+ValeurCmp = U;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B34D2
+Path = /5D1D875B
+Reference = SW3;
+ValeurCmp = W;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B34A0
+Path = /5D1E9C75
+Reference = SW2;
+ValeurCmp = Q;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2EA8
+Path = /5D143D6B
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B33D6
+Path = /5D9A87EB
+Reference = D49;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B32E8
+Path = /5D1B4023
+Reference = D42;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B32A4
+Path = /5D1CA77C
+Reference = D40;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3260
+Path = /5D1E9C9F
+Reference = D38;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B323E
+Path = /5CF309C0
+Reference = D37;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B31D8
+Path = /5D143D83
+Reference = D34;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3172
+Path = /5D185A32
+Reference = D31;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3150
+Path = /5D1B4017
+Reference = D30;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B312E
+Path = /5D1BDE9B
+Reference = D29;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B30EA
+Path = /5D1D8779
+Reference = D27;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B30C8
+Path = /5D1E9C93
+Reference = D26;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B30A6
+Path = /5CF309CE
+Reference = D25;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B301E
+Path = /5D15699A
+Reference = D21;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2F74
+Path = /5D1CA764
+Reference = D16;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2F52
+Path = /5D1D876D
+Reference = D15;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2F0E
+Path = /5CF309DC
+Reference = D13;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2ECA
+Path = /581E77C1
+Reference = D11;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2E64
+Path = /5D16C61B
+Reference = D8;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2DFE
+Path = /5D1BDE83
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2DDC
+Path = /5D1CA758
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3DCE
+Path = /5D9A87E5
+Reference = SW49;
+ValeurCmp = SPECIAL;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3D38
+Path = /5D143D89
+Reference = SW46;
+ValeurCmp = DOWN;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3D06
+Path = /5D1569AC
+Reference = SW45;
+ValeurCmp = LEFT;
+IdModule  = Laptreus v2 Footprints:Hybrid_Kailh_MX_Socket_Through_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2E42
+Path = /5D185A1A
+Reference = D7;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B33F8
+Path = /5D947132
+Reference = D50;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3392
+Path = /581E77FA
+Reference = D47;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3370
+Path = /5D143D8F
+Reference = D46;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B334E
+Path = /5D1569B2
+Reference = D45;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B332C
+Path = /5D16C63F
+Reference = D44;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B32C6
+Path = /5D1BDEA7
+Reference = D41;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3282
+Path = /5D1D8785
+Reference = D39;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B31B6
+Path = /5D1569A6
+Reference = D33;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3194
+Path = /5D16C633
+Reference = D32;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B310C
+Path = /5D1CA770
+Reference = D28;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B3040
+Path = /5D143D77
+Reference = D22;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2FFC
+Path = /5D16C627
+Reference = D20;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2FDA
+Path = /5D185A26
+Reference = D19;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2F30
+Path = /5D1E9C87
+Reference = D14;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2E86
+Path = /5D15698E
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2E20
+Path = /5D1B3FFF
+Reference = D6;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2DBA
+Path = /5D1D8761
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2D98
+Path = /5D1E9C7B
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3B2D76
+Path = /5CF309EA
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Laptreus v2 Footprints:Diode-dual;
+EndCmp
+
+EndListe

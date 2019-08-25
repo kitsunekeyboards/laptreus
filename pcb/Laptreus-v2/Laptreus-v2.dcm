@@ -5,6 +5,12 @@ D Power flag, +5V
 K power-flag
 $ENDCMP
 #
+$CMP BoardOutline
+D Fiducial Marker
+K fiducial marker
+F ~
+$ENDCMP
+#
 $CMP Conn_01x12
 D Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector

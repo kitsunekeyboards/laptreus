@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Laptreus v2 Footprints")(type KiCad)(uri "${KIPRJMOD}/Laptreus v2 Footprints")(options "")(descr ""))
+  (lib (name Laptreus-v2)(type KiCad)(uri /Users/vosechu/github/vosechu/keyboards/laptreus/pcb/Laptreus-v2)(options "")(descr ""))
+)
