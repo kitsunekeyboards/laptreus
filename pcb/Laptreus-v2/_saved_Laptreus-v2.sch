@@ -2353,7 +2353,7 @@ U 1 1 5D36226E
 P 11300 1750
 F 0 "SW25" H 11450 1860 50  0000 C CNN
 F 1 "SHIFT" H 11300 1670 50  0000 C CNN
-F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode" H 11300 1750 60  0001 C CNN
+F 2 "Laptreus v2 Footprints:Hybrid_Kailh_MX_Choc_Socket_Through_Hole_With_Diode_No_Diode_Trace" H 11300 1750 60  0001 C CNN
 F 3 "" H 11300 1750 60  0001 C CNN
 F 4 "CPG151101S11" H 1000 -1250 50  0001 C CNN "Manufacturer Part Number"
 F 5 "PG1511" H 1000 -1250 50  0001 C CNN "Package"
@@ -3043,7 +3043,7 @@ Text GLabel 3800 4450 0    50   Input ~ 0
 Wire Wire Line
 	4900 6600 4300 6600
 Text Label 3900 3950 2    49   ~ 0
-LED_STRIP_IN
+B7-LED-STRIP
 Wire Wire Line
 	3900 3950 4100 3950
 Text Notes 3900 3450 0    50   ~ 0

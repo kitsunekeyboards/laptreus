@@ -1,4 +1,4 @@
-update=Saturday, August 24, 2019 at 09:44:10 PM
+update=Friday, September 06, 2019 at 07:45:18 AM
 version=1
 last_client=kicad
 [general]
@@ -39,6 +39,9 @@ MinMicroViaDiameter=0.508
 MinMicroViaDrill=0.127
 MinHoleToHole=0.25
 TrackWidth1=0.16
+TrackWidth2=0.16
+TrackWidth3=0.2
+TrackWidth4=0.25
 ViaDiameter1=0.6
 ViaDrill1=0.4
 dPairWidth1=0.25
@@ -67,7 +70,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.09999999999999999
 SolderMaskMinWidth=0.09999999999999999
 SolderPasteClearance=-0.07619999999999999
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/1]
 Name=Ground
