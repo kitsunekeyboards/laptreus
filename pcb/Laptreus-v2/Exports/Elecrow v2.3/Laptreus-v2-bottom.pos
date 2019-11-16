@@ -1,0 +1,9 @@
+### Module positions - created on Sunday, October 20, 2019 at 03:35:41 PM ###
+### Printed by Pcbnew version kicad (6.0.0-rc1-dev-1469-g932b9a334)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref      Val          Package                               PosX       PosY       Rot  Side
+L1         YELLOW       LED_0603_1608Metric_Castellated    11.8000    45.7250    0.0000  bottom
+Ref**      Val**        Kitty                             131.5250   -17.4250  180.0000  bottom
+SW_RESET1  SWITCH_PUSH  SW_SPST_B3U-1000P                  -0.0005    57.7501  180.0000  bottom
+## End
