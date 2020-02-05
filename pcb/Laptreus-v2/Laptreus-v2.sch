@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:Laptreus-v2-cache
-EELAYER 29 0
+EELAYER 26 0
 EELAYER END
 $Descr A3 11693 16535 portrait
 encoding utf-8
@@ -3318,33 +3318,6 @@ F 3 "~" H 8200 4100 50  0001 C CNN
 $EndComp
 Text Label 4900 6600 2    39   ~ 0
 B7-LED-STRIP
-Text GLabel 550  4000 0    39   Input ~ 0
-+5VRAW
-Wire Wire Line
-	700  4000 550  4000
-Text GLabel 550  4200 0    39   Input ~ 0
-D+
-Text GLabel 550  4100 0    39   Input ~ 0
-D-
-$Comp
-L Laptreus-v2:GND #PWR02
-U 1 1 5D83B719
-P 550 4300
-F 0 "#PWR02" H 550 4050 50  0001 C CNN
-F 1 "GND" H 555 4127 50  0000 C CNN
-F 2 "" H 550 4300 50  0001 C CNN
-F 3 "" H 550 4300 50  0001 C CNN
-	1    550  4300
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	550  4100 700  4100
-Wire Wire Line
-	700  4200 550  4200
-Wire Wire Line
-	550  4300 700  4300
-Text Label 650  4300 0    9    ~ 0
-GND
 NoConn ~ 4300 6800
 $Comp
 L Device:LED L1
@@ -3361,45 +3334,4 @@ Wire Wire Line
 	5300 6400 5500 6400
 Wire Wire Line
 	5800 6400 6000 6400
-$Comp
-L Connector:Conn_01x04_Female J3
-U 1 1 5DB1E1D9
-P 900 4100
-F 0 "J3" H 900 4000 50  0000 L CNN
-F 1 "Conn_01x04_Female" H 300 3800 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 900 4100 50  0001 C CNN
-F 3 "~" H 900 4100 50  0001 C CNN
-	1    900  4100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x04_Female J4
-U 1 1 5E110584
-P 1100 4100
-F 0 "J4" H 1100 4100 50  0000 L CNN
-F 1 "Conn_01x04_Female" H 600 4400 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 1100 4100 50  0001 C CNN
-F 3 "~" H 1100 4100 50  0001 C CNN
-	1    1100 4100
-	-1   0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x04 J2
-U 1 1 5D7A980E
-P 1650 4100
-F 0 "J2" H 1730 4092 50  0000 L CNN
-F 1 "Conn_01x04" H 1500 3800 50  0000 L CNN
-F 2 "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" H 1650 4100 50  0001 C CNN
-F 3 "~" H 1650 4100 50  0001 C CNN
-	1    1650 4100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1300 4000 1450 4000
-Wire Wire Line
-	1300 4100 1450 4100
-Wire Wire Line
-	1300 4200 1450 4200
-Wire Wire Line
-	1300 4300 1450 4300
 $EndSCHEMATC
